@@ -9,7 +9,9 @@ AI tools grouped by what they do. Each category contains:
 
 ## Live categories
 
-*None yet — seeding begins in upcoming commits.*
+| Category | Tools | Folder |
+|---|---|---|
+| Coding & Development | 10 | [coding-development/](coding-development/) |
 
 ## Planned categories
 

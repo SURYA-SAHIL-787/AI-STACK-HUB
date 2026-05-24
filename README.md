@@ -27,7 +27,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 
 | Category | Tools | Status |
 |---|---|---|
-| Coding & Development | 10 | Coming in next commit |
+| [Coding & Development](categories/coding-development/) | 10 | Live |
 | Chatbots & General AI | 10 | Coming soon |
 | Writing & Content | 10 | Coming soon |
 | Image Generation | 10 | Coming soon |

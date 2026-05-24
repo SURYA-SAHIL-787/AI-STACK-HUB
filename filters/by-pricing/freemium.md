@@ -4,7 +4,15 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 
 | Tool | Category | Free tier limits | Paid starts at |
 |---|---|---|---|
-| *Tools added here as categories are seeded* | | | |
+| [Codeium](../../categories/coding-development/codeium.md) | Coding & Development | Unlimited completions + chat | $12/user/mo (Teams) |
+| [Tabnine](../../categories/coding-development/tabnine.md) | Coding & Development | Basic short completions | $9/user/mo (Dev) |
+| [Sourcegraph Cody](../../categories/coding-development/sourcegraph-cody.md) | Coding & Development | Limited chat + autocomplete | $9/user/mo (Pro) |
+| [Amazon Q Developer](../../categories/coding-development/amazon-q-developer.md) | Coding & Development | Unlimited suggestions, 50 chats/mo | $19/user/mo (Pro) |
+| [Replit AI](../../categories/coding-development/replit-ai.md) | Coding & Development | Limited AI credits | $20/mo (Core) |
+| [GitHub Copilot](../../categories/coding-development/github-copilot.md) | Coding & Development | 2000 completions/mo, 50 chats/mo | $10/user/mo (Pro) |
+| [Cursor](../../categories/coding-development/cursor.md) | Coding & Development | Limited slow requests | $20/user/mo (Pro) |
+| [JetBrains AI Assistant](../../categories/coding-development/jetbrains-ai.md) | Coding & Development | Limited completions + chat | $10/user/mo (Pro) |
+| [Windsurf](../../categories/coding-development/windsurf.md) | Coding & Development | Limited premium credits | $15/user/mo (Pro) |
 
 ---
 

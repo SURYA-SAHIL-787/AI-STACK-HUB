@@ -4,7 +4,7 @@ Tools for **experienced users** — often require API keys, command-line setup, 
 
 | Tool | Category | What makes it advanced |
 |---|---|---|
-| *Tools added here as categories are seeded* | | |
+| [Claude Code](../../categories/coding-development/claude-code.md) | Coding & Development | CLI-based agentic tool, needs terminal comfort and prompt skill |
 
 ---
 
