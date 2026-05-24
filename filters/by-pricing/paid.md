@@ -9,6 +9,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Claude Code](../../categories/coding-development/claude-code.md) | Coding & Development | Claude Pro/Max or API | Most capable agentic coding CLI |
 | [JetBrains AI Assistant](../../categories/coding-development/jetbrains-ai.md) | Coding & Development | $10/mo Pro | Native AI in IntelliJ/PyCharm/etc. |
 | [Windsurf](../../categories/coding-development/windsurf.md) | Coding & Development | $15/mo Pro | AI-first IDE with Cascade agent |
+| [ChatGPT Plus](../../categories/chatbots-general-ai/chatgpt-plus.md) | Chatbots & General AI | $20/mo | Premium GPT models, image gen, voice, custom GPTs |
+| [Claude Pro](../../categories/chatbots-general-ai/claude-pro.md) | Chatbots & General AI | $20/mo | Claude Opus access, Projects, higher limits |
+| [Gemini Advanced](../../categories/chatbots-general-ai/gemini-advanced.md) | Chatbots & General AI | $20/mo | Bundled with 2TB Drive + NotebookLM Plus |
+| [Perplexity Pro](../../categories/chatbots-general-ai/perplexity-pro.md) | Chatbots & General AI | $20/mo | Unlimited Pro search with frontier models |
+| [Poe](../../categories/chatbots-general-ai/poe.md) | Chatbots & General AI | $20/mo | Access to many AI models in one subscription |
 
 ---
 
