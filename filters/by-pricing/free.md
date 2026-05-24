@@ -19,6 +19,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Free web editor for readability |
 | [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | AI content generator, 10k chars/mo free |
 | [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | Browser-wide AI writing help |
+| [Stable Diffusion](../../categories/image-generation/stable-diffusion.md) | Image Generation | Open-source model, free via web hosts or local |
+| [Leonardo.ai (Free)](../../categories/image-generation/leonardo-ai.md) | Image Generation | Polished SD-based UI, ~150 free tokens/day |
+| [Bing Image Creator](../../categories/image-generation/bing-image-creator.md) | Image Generation | Free DALL-E 3 via Microsoft |
+| [Playground AI](../../categories/image-generation/playground-ai.md) | Image Generation | Free daily generations, browser-based |
+| [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | The original free image AI, no signup |
 
 ---
 

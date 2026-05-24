@@ -25,6 +25,15 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | Simple "pick use case, get content" workflow |
 | [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | Browser extension, just install |
 | [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Same UX as free, more suggestions |
+| [Stable Diffusion](../../categories/image-generation/stable-diffusion.md) | Image Generation | Easy via web UIs (not local install) |
+| [Leonardo.ai (Free)](../../categories/image-generation/leonardo-ai.md) | Image Generation | Clean UI, polished defaults |
+| [Bing Image Creator](../../categories/image-generation/bing-image-creator.md) | Image Generation | Type and click — simplest workflow |
+| [Playground AI](../../categories/image-generation/playground-ai.md) | Image Generation | Aesthetic defaults make beginners look good |
+| [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | No account required |
+| [Midjourney](../../categories/image-generation/midjourney.md) | Image Generation | Web UI is now beginner-friendly |
+| [DALL-E 3 (ChatGPT Plus)](../../categories/image-generation/dalle-3.md) | Image Generation | Inside ChatGPT — natural conversation |
+| [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | Browser-based, simple UI |
+| [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | Same as free, faster speed |
 
 ---
 

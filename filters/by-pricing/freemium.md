@@ -25,6 +25,13 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | 15 generations/day | $19.99/mo (Premium) |
 | [Copy.ai](../../categories/writing-content/copyai.md) | Writing & Content | 2,000 words/mo | $49/mo (Starter) |
 | [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | Limited free trial credits | $19/mo (Standard) |
+| [Stable Diffusion](../../categories/image-generation/stable-diffusion.md) | Image Generation | Self-hosted free | API paid per-image |
+| [Leonardo.ai (Free)](../../categories/image-generation/leonardo-ai.md) | Image Generation | ~150 tokens/day | $12/mo (Apprentice) |
+| [Playground AI](../../categories/image-generation/playground-ai.md) | Image Generation | ~500 images/day standard | $15/mo (Pro) |
+| [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | Free with ads | $5/mo (Supporter) |
+| [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | ~25 credits/mo | $9.99/mo (Standard) |
+| [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | Limited daily gens | $8/mo (Plus) |
+| [Recraft](../../categories/image-generation/recraft.md) | Image Generation | 50 credits/day, no commercial | $10/mo (Basic) |
 
 ---
 

@@ -18,6 +18,9 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Catches typos in assignments |
 | [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Free, no account — quick essay polish |
 | [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Plagiarism check is useful for graded work |
+| [Bing Image Creator](../../categories/image-generation/bing-image-creator.md) | Image Generation | Free DALL-E 3 — great for school projects/posters |
+| [Leonardo.ai (Free)](../../categories/image-generation/leonardo-ai.md) | Image Generation | 150 free tokens/day for presentations |
+| [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | Zero friction — generate without signup |
 
 ---
 

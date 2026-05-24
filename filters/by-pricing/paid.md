@@ -19,6 +19,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | $19/mo | SEO-focused content generation |
 | [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | $12/mo | Tone, clarity, plagiarism checking |
 | [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | $19/mo | Built specifically for fiction writing |
+| [Midjourney](../../categories/image-generation/midjourney.md) | Image Generation | $10/mo Basic | Iconic premium AI image generator |
+| [DALL-E 3 (ChatGPT Plus)](../../categories/image-generation/dalle-3.md) | Image Generation | $20/mo | OpenAI image gen, conversational refinement |
+| [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | $4.99–9.99/mo | Commercial-safe, Photoshop integration |
+| [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | $8/mo | Best text-in-image rendering |
+| [Recraft](../../categories/image-generation/recraft.md) | Image Generation | $10/mo Basic | Designer-focused, vector + raster |
 
 ---
 

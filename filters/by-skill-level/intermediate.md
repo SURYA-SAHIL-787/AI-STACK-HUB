@@ -12,6 +12,7 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Copy.ai](../../categories/writing-content/copyai.md) | Writing & Content | Workflows take time to configure |
 | [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | SEO features assume some marketing knowledge |
 | [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | Many specialized fiction features to learn |
+| [Recraft](../../categories/image-generation/recraft.md) | Image Generation | Designer-focused — assumes design vocabulary |
 
 ---
 

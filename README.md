@@ -30,7 +30,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Coding & Development](categories/coding-development/) | 10 | Live |
 | [Chatbots & General AI](categories/chatbots-general-ai/) | 10 | Live |
 | [Writing & Content](categories/writing-content/) | 10 | Live |
-| Image Generation | 10 | Coming soon |
+| [Image Generation](categories/image-generation/) | 10 | Live |
 | Video Generation | 10 | Planned |
 | Audio, Music & Voice | 10 | Planned |
 | Study & Learning | 10 | Planned |
@@ -100,8 +100,8 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 ## Roadmap
 
 - [x] Phase 0: Repo created, README written
-- [ ] Phase 1: Folder structure + contribution templates
-- [ ] Phase 2: Seed first 4 categories (40 tools)
+- [x] Phase 1: Folder structure + contribution templates
+- [x] Phase 2: Seed first 4 categories (40 tools)
 - [ ] Phase 3: Expand to all 30+ categories (300+ tools)
 - [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
 - [ ] Phase 5: Open to community contributions at scale
