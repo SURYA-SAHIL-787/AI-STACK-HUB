@@ -29,7 +29,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 |---|---|---|
 | [Coding & Development](categories/coding-development/) | 10 | Live |
 | [Chatbots & General AI](categories/chatbots-general-ai/) | 10 | Live |
-| Writing & Content | 10 | Coming soon |
+| [Writing & Content](categories/writing-content/) | 10 | Live |
 | Image Generation | 10 | Coming soon |
 | Video Generation | 10 | Planned |
 | Audio, Music & Voice | 10 | Planned |

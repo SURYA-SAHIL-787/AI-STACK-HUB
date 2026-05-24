@@ -14,6 +14,10 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Gemini (Free)](../../categories/chatbots-general-ai/gemini.md) | Chatbots & General AI | Works inside Google Docs — useful for school assignments |
 | [Perplexity (Free)](../../categories/chatbots-general-ai/perplexity.md) | Chatbots & General AI | Cite-able sources for research papers |
 | [DeepSeek](../../categories/chatbots-general-ai/deepseek.md) | Chatbots & General AI | Free fallback when other free tiers run out |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Essential for paraphrasing essays |
+| [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Catches typos in assignments |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Free, no account — quick essay polish |
+| [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Plagiarism check is useful for graded work |
 
 ---
 

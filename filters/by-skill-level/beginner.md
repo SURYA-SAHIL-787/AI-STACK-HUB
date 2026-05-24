@@ -19,6 +19,12 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Claude Pro](../../categories/chatbots-general-ai/claude-pro.md) | Chatbots & General AI | Same UX as free, just more usage |
 | [Gemini Advanced](../../categories/chatbots-general-ai/gemini-advanced.md) | Chatbots & General AI | Bundle includes Drive + NotebookLM Plus |
 | [Perplexity Pro](../../categories/chatbots-general-ai/perplexity-pro.md) | Chatbots & General AI | Same UI as free, unlimited Pro searches |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Paste and paraphrase — easiest workflow |
+| [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Install and forget — checks everything you write |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | No account needed, paste into web editor |
+| [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | Simple "pick use case, get content" workflow |
+| [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | Browser extension, just install |
+| [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Same UX as free, more suggestions |
 
 ---
 

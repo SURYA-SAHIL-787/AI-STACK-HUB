@@ -18,6 +18,13 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Gemini (Free)](../../categories/chatbots-general-ai/gemini.md) | Chatbots & General AI | Gemini Flash unlimited | $20/mo (AI Pro) |
 | [Perplexity (Free)](../../categories/chatbots-general-ai/perplexity.md) | Chatbots & General AI | Basic search unlimited, ~5 Pro/day | $20/mo (Pro) |
 | [Poe](../../categories/chatbots-general-ai/poe.md) | Chatbots & General AI | Daily message quotas across models | $20/mo (Pro) |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | 125-word paraphrase limit, basic grammar | $9.95/mo (Premium) |
+| [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Grammar/spelling/punctuation | $12/mo (Premium) |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Full web editor free | $19.99 desktop or $10–15/mo (Plus) |
+| [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | 10k chars/mo, all use cases | $9/mo (Unlimited) |
+| [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | 15 generations/day | $19.99/mo (Premium) |
+| [Copy.ai](../../categories/writing-content/copyai.md) | Writing & Content | 2,000 words/mo | $49/mo (Starter) |
+| [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | Limited free trial credits | $19/mo (Standard) |
 
 ---
 

@@ -14,6 +14,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Gemini Advanced](../../categories/chatbots-general-ai/gemini-advanced.md) | Chatbots & General AI | $20/mo | Bundled with 2TB Drive + NotebookLM Plus |
 | [Perplexity Pro](../../categories/chatbots-general-ai/perplexity-pro.md) | Chatbots & General AI | $20/mo | Unlimited Pro search with frontier models |
 | [Poe](../../categories/chatbots-general-ai/poe.md) | Chatbots & General AI | $20/mo | Access to many AI models in one subscription |
+| [Jasper](../../categories/writing-content/jasper.md) | Writing & Content | $49/mo | Premium content platform for marketing teams |
+| [Copy.ai](../../categories/writing-content/copyai.md) | Writing & Content | $49/mo | Marketing/sales content with workflows |
+| [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | $19/mo | SEO-focused content generation |
+| [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | $12/mo | Tone, clarity, plagiarism checking |
+| [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | $19/mo | Built specifically for fiction writing |
 
 ---
 

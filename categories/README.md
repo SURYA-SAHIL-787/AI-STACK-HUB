@@ -13,6 +13,7 @@ AI tools grouped by what they do. Each category contains:
 |---|---|---|
 | Coding & Development | 10 | [coding-development/](coding-development/) |
 | Chatbots & General AI | 10 | [chatbots-general-ai/](chatbots-general-ai/) |
+| Writing & Content | 10 | [writing-content/](writing-content/) |
 
 ## Planned categories
 

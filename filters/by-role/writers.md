@@ -9,6 +9,16 @@ Tools for **drafting, editing, paraphrasing, grammar checking, brainstorming, an
 | [ChatGPT (Free)](../../categories/chatbots-general-ai/chatgpt.md) | Chatbots & General AI | Versatile drafting; strong on short content |
 | [ChatGPT Plus](../../categories/chatbots-general-ai/chatgpt-plus.md) | Chatbots & General AI | Custom GPTs let you save writing templates/styles |
 | [Gemini Advanced](../../categories/chatbots-general-ai/gemini-advanced.md) | Chatbots & General AI | Writes directly inside Google Docs |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Paraphrasing for rewrites and varied phrasing |
+| [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Always-on grammar/spell check |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Readability checker for clearer prose |
+| [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | Quick AI drafts on a budget |
+| [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | Browser-wide AI for emails, posts, forms |
+| [Jasper](../../categories/writing-content/jasper.md) | Writing & Content | Premium marketing content platform |
+| [Copy.ai](../../categories/writing-content/copyai.md) | Writing & Content | Marketing copy with workflow automation |
+| [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | SEO-optimized long-form content |
+| [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Tone, clarity, plagiarism for professional work |
+| [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | Purpose-built for novelists/screenwriters |
 
 ---
 

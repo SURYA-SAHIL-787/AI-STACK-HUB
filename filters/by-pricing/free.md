@@ -14,6 +14,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Gemini (Free)](../../categories/chatbots-general-ai/gemini.md) | Chatbots & General AI | Google's chatbot with Workspace integration |
 | [Perplexity (Free)](../../categories/chatbots-general-ai/perplexity.md) | Chatbots & General AI | AI search with cited sources |
 | [DeepSeek](../../categories/chatbots-general-ai/deepseek.md) | Chatbots & General AI | Open-weights model, generous free chat |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Paraphraser, grammar checker, summarizer |
+| [Grammarly (Free)](../../categories/writing-content/grammarly.md) | Writing & Content | Grammar/spell check across web and apps |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Free web editor for readability |
+| [Rytr (Free)](../../categories/writing-content/rytr.md) | Writing & Content | AI content generator, 10k chars/mo free |
+| [HyperWrite (Free)](../../categories/writing-content/hyperwrite.md) | Writing & Content | Browser-wide AI writing help |
 
 ---
 

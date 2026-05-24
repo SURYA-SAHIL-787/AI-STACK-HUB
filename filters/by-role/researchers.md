@@ -9,6 +9,9 @@ Tools for **literature search, paper summarization, citation management, knowled
 | [Gemini Advanced](../../categories/chatbots-general-ai/gemini-advanced.md) | Chatbots & General AI | Bundled NotebookLM Plus is excellent for literature reviews |
 | [Claude (Free)](../../categories/chatbots-general-ai/claude.md) | Chatbots & General AI | Long-context document analysis; PDF reading |
 | [ChatGPT (Free)](../../categories/chatbots-general-ai/chatgpt.md) | Chatbots & General AI | Broad knowledge fallback |
+| [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Paraphraser + citation generator for papers |
+| [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Plagiarism checker useful for academic submissions |
+| [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Improves clarity of academic writing |
 
 ---
 
