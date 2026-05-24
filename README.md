@@ -1,2 +1,123 @@
 # AI-STACK-HUB
-AISTACKHUB IS A CENTRALIZED REPOSITORY OF AI TOOLS, APIS, AGENTS, LLM PLATFORMS, AUTOMATION SYSTEMS, PRODUCTIVITY APPLICATIONS, IMAGE GENERATORS, VIDEO GENERATORS, RESEARCH TOOLS, AND DEVELOPER RESOURCES ORGANIZED BY CATEGORY, WORKFLOW, AND USE CASE IN ONE PLACE.
+
+> A centralized, structured directory of AI tools — organized by category, use case, pricing, and skill level. Built for students, developers, designers, writers, and anyone exploring the AI ecosystem.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Status](https://img.shields.io/badge/status-actively%20growing-blue.svg)]()
+
+---
+
+## What is this?
+
+**AI-STACK-HUB** (AISH) is a curated, browsable directory of AI tools. Each category lists the **top 10 tools — 5 free and 5 paid** — and every tool has its own detail page covering:
+
+- Official website + pricing breakdown
+- What it does (in plain language)
+- Best use cases
+- Free tier vs paid tier
+- Ratings and reviews from around the web
+- Beginner-friendliness verdict
+
+No fluff. No affiliate spam. Just structured information to help you pick the right AI tool for the job.
+
+---
+
+## Browse by Category
+
+| Category | Tools | Status |
+|---|---|---|
+| Coding & Development | 10 | Coming in next commit |
+| Chatbots & General AI | 10 | Coming soon |
+| Writing & Content | 10 | Coming soon |
+| Image Generation | 10 | Coming soon |
+| Video Generation | 10 | Planned |
+| Audio, Music & Voice | 10 | Planned |
+| Study & Learning | 10 | Planned |
+| Research & Knowledge | 10 | Planned |
+| Productivity & Notes | 10 | Planned |
+| Design (UI/UX) | 10 | Planned |
+| Presentations & Slides | 10 | Planned |
+| Marketing & SEO | 10 | Planned |
+| Email & Communication | 10 | Planned |
+| Translation & Language | 10 | Planned |
+| Data Analysis & Spreadsheets | 10 | Planned |
+| Meetings & Transcription | 10 | Planned |
+| Customer Support | 10 | Planned |
+| Recruiting & HR | 10 | Planned |
+| Resume & Career | 10 | Planned |
+| Sales & CRM | 10 | Planned |
+| Social Media | 10 | Planned |
+| Browser & Search AI | 10 | Planned |
+| Autonomous Coding Agents | 10 | Planned |
+| 3D Modeling & Animation | 10 | Planned |
+| Avatars & Characters | 10 | Planned |
+| Game Development | 10 | Planned |
+| Legal AI | 10 | Planned |
+| Healthcare AI | 10 | Planned |
+| Finance & Trading | 10 | Planned |
+| LLM APIs & Platforms | 10 | Planned |
+| Workflow Automation | 10 | Planned |
+
+See [categories/](categories/) for the full directory.
+
+---
+
+## Browse by Filter
+
+The same tools, sliced different ways:
+
+**By pricing**
+- Free tools
+- Freemium tools
+- Paid tools
+
+**By skill level**
+- Beginner-friendly
+- Intermediate
+- Advanced / Power users
+
+**By role**
+- For students
+- For developers
+- For designers
+- For writers
+- For researchers
+
+See [filters/](filters/) for filter pages (populated as tools are added).
+
+---
+
+## How to use this repo
+
+1. **Need a specific kind of tool?** Browse by [category](categories/).
+2. **On a budget?** Check the free / freemium filter pages.
+3. **New to AI?** Start with the "Beginner-friendly" filter.
+4. **Want to contribute a tool?** See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## Roadmap
+
+- [x] Phase 0: Repo created, README written
+- [ ] Phase 1: Folder structure + contribution templates
+- [ ] Phase 2: Seed first 4 categories (40 tools)
+- [ ] Phase 3: Expand to all 30+ categories (300+ tools)
+- [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
+- [ ] Phase 5: Open to community contributions at scale
+
+---
+
+## Contributing
+
+Found a great AI tool we're missing? Want to update outdated info? PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) and use the [tool template](templates/tool-template.md).
+
+---
+
+## License
+
+[MIT](LICENSE) — free to use, fork, and adapt.
+
+---
+
+*Maintained by [@SURYA-SAHIL-787](https://github.com/SURYA-SAHIL-787). Star the repo if you find it useful.*
