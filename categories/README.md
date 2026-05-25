@@ -21,6 +21,7 @@ AI tools grouped by what they do. Each category contains:
 | Video Generation | 10 | [video-generation/](video-generation/) |
 | Audio, Music & Voice | 10 | [audio-music-voice/](audio-music-voice/) |
 | Meetings & Transcription | 10 | [meetings-transcription/](meetings-transcription/) |
+| Browser & Search AI | 10 | [browser-search/](browser-search/) |
 
 ## Planned categories
 

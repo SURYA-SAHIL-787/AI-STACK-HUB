@@ -48,7 +48,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Resume & Career](categories/resume-career/) | 10 | Live |
 | Sales & CRM | 10 | Planned |
 | Social Media | 10 | Planned |
-| Browser & Search AI | 10 | Planned |
+| [Browser & Search AI](categories/browser-search/) | 10 | Live |
 | Autonomous Coding Agents | 10 | Planned |
 | 3D Modeling & Animation | 10 | Planned |
 | Avatars & Characters | 10 | Planned |
@@ -102,7 +102,7 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 - [x] Phase 0: Repo created, README written
 - [x] Phase 1: Folder structure + contribution templates
 - [x] Phase 2: Seed first 4 categories (40 tools)
-- [ ] Phase 3: Expand to all 30+ categories (300+ tools)
+- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 11/31 done
 - [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
 - [ ] Phase 5: Open to community contributions at scale
 
