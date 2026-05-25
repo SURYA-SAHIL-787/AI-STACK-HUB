@@ -31,7 +31,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Chatbots & General AI](categories/chatbots-general-ai/) | 10 | Live |
 | [Writing & Content](categories/writing-content/) | 10 | Live |
 | [Image Generation](categories/image-generation/) | 10 | Live |
-| Video Generation | 10 | Planned |
+| [Video Generation](categories/video-generation/) | 10 | Live |
 | Audio, Music & Voice | 10 | Planned |
 | [Study & Learning](categories/study-learning/) | 10 | Live |
 | Research & Knowledge | 10 | Planned |

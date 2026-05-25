@@ -39,6 +39,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Designer templates, limited free tier |
 | [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | Modern resume designs with AI |
 | [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Truly free, no premium tier |
+| [Runway (Free)](../../categories/video-generation/runway.md) | Video Generation | Industry-leading AI video, 525 free credits |
+| [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | Daily-refresh credits + creative effects |
+| [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 photorealistic videos/month free |
+| [Kling AI](../../categories/video-generation/kling.md) | Video Generation | Chinese model with strong physics, free tier |
+| [Hailuo AI](../../categories/video-generation/hailuo.md) | Video Generation | No-friction free AI video |
 
 ---
 

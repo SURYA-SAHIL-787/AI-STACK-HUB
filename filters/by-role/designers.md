@@ -14,6 +14,14 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | Commercial-safe + Photoshop Generative Fill |
 | [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | Best text rendering for posters/logos |
 | [Recraft](../../categories/image-generation/recraft.md) | Image Generation | Vector graphics + brand consistency |
+| [Runway (Free)](../../categories/video-generation/runway.md) | Video Generation | Industry-standard AI video tool for designers |
+| [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | Creative effects for motion design |
+| [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | Photorealistic clips for mood boards/concepts |
+| [Runway Standard](../../categories/video-generation/runway-standard.md) | Video Generation | Full editor for paid client work |
+| [Sora (ChatGPT Plus)](../../categories/video-generation/sora.md) | Video Generation | Concept video alongside ChatGPT work |
+| [Veo 3 (AI Ultra)](../../categories/video-generation/veo.md) | Video Generation | Top-tier quality for agency/film work |
+| [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | Daily content creation at scale |
+| [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | Presenter videos for marketing/training |
 
 ---
 

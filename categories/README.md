@@ -18,6 +18,7 @@ AI tools grouped by what they do. Each category contains:
 | Study & Learning | 10 | [study-learning/](study-learning/) |
 | Productivity & Notes | 10 | [productivity-notes/](productivity-notes/) |
 | Resume & Career | 10 | [resume-career/](resume-career/) |
+| Video Generation | 10 | [video-generation/](video-generation/) |
 
 ## Planned categories
 

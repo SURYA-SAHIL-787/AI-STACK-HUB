@@ -39,6 +39,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Kickresume Premium](../../categories/resume-career/kickresume-premium.md) | Resume & Career | $7/mo (annual) | Designer templates + personal portfolio site |
 | [Enhancv Pro](../../categories/resume-career/enhancv-pro.md) | Resume & Career | $14.99/mo (3-month) | Modern impact-focused resumes |
 | [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | $49.95/mo | Most thorough ATS keyword analysis |
+| [Runway Standard](../../categories/video-generation/runway-standard.md) | Video Generation | $15/mo | Full Runway editor + 625 credits/mo |
+| [Sora (ChatGPT Plus)](../../categories/video-generation/sora.md) | Video Generation | $20/mo | Bundled with ChatGPT Plus |
+| [Veo 3 (AI Ultra)](../../categories/video-generation/veo.md) | Video Generation | $250/mo | Google's frontier video model |
+| [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | $35/mo | 2,300 credits + Pikaffects |
+| [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | $29/mo | AI presenter videos in 140 languages |
 
 ---
 
