@@ -29,6 +29,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Quizlet (Free)](../../categories/study-learning/quizlet.md) | Study & Learning | Free flashcards + limited AI features |
 | [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Chat with any PDF, free tier |
 | [Knowt](../../categories/study-learning/knowt.md) | Study & Learning | Free Quizlet alternative with built-in AI |
+| [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | All-in-one workspace, free for personal use |
+| [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Free local-first notes with free AI plugins |
+| [Mem (Free Trial)](../../categories/productivity-notes/mem.md) | Productivity & Notes | AI-organized notes, free trial |
+| [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | Object-based notes, free up to 1,000 blocks |
+| [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | Open-source local AI for your documents |
 
 ---
 

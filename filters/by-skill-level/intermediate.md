@@ -13,6 +13,9 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | SEO features assume some marketing knowledge |
 | [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | Many specialized fiction features to learn |
 | [Recraft](../../categories/image-generation/recraft.md) | Image Generation | Designer-focused — assumes design vocabulary |
+| [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Plugin setup needed for AI; rewards customization |
+| [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | Object-based model takes time to click |
+| [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | Doc-database hybrid; some learning |
 
 ---
 

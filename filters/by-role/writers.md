@@ -19,6 +19,8 @@ Tools for **drafting, editing, paraphrasing, grammar checking, brainstorming, an
 | [Writesonic](../../categories/writing-content/writesonic.md) | Writing & Content | SEO-optimized long-form content |
 | [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Tone, clarity, plagiarism for professional work |
 | [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | Purpose-built for novelists/screenwriters |
+| [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | Daily-notes app for writers who think by writing |
+| [Notion AI](../../categories/productivity-notes/notion-ai.md) | Productivity & Notes | AI inside Notion docs for drafting/editing |
 
 ---
 

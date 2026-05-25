@@ -29,6 +29,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | $9.99/mo | Step-by-step math problem solver |
 | [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | $9.99/mo | Summarizes videos/PDFs into notes/flashcards |
 | [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | $14.99/mo | All-in-one study suite with AI tutor |
+| [Notion AI](../../categories/productivity-notes/notion-ai.md) | Productivity & Notes | $10/user/mo | AI add-on to Notion workspace |
+| [Mem Pro](../../categories/productivity-notes/mem-pro.md) | Productivity & Notes | $14.99/mo | Full Mem AI, unlimited notes |
+| [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | $10/mo | Daily-notes app with built-in AI |
+| [Tana](../../categories/productivity-notes/tana.md) | Productivity & Notes | $8/mo | Power-user structured knowledge tool |
+| [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | $10/maker/mo | Docs + databases + AI in one canvas |
 
 ---
 

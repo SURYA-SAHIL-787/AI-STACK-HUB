@@ -17,6 +17,8 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [ChatGPT Plus](../../categories/chatbots-general-ai/chatgpt-plus.md) | Chatbots & General AI | Strong general coding chat with GPT-4o/GPT-5 |
 | [Claude Pro](../../categories/chatbots-general-ai/claude-pro.md) | Chatbots & General AI | Excellent for reasoning through bugs, refactor design |
 | [Poe](../../categories/chatbots-general-ai/poe.md) | Chatbots & General AI | Try many models for coding without multiple subs |
+| [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Local-first notes for code docs, learning logs |
+| [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | Self-hostable RAG over docs and code |
 
 ---
 

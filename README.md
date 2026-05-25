@@ -35,7 +35,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Audio, Music & Voice | 10 | Planned |
 | [Study & Learning](categories/study-learning/) | 10 | Live |
 | Research & Knowledge | 10 | Planned |
-| Productivity & Notes | 10 | Planned |
+| [Productivity & Notes](categories/productivity-notes/) | 10 | Live |
 | Design (UI/UX) | 10 | Planned |
 | Presentations & Slides | 10 | Planned |
 | Marketing & SEO | 10 | Planned |

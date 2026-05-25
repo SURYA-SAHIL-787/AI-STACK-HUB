@@ -16,6 +16,7 @@ AI tools grouped by what they do. Each category contains:
 | Writing & Content | 10 | [writing-content/](writing-content/) |
 | Image Generation | 10 | [image-generation/](image-generation/) |
 | Study & Learning | 10 | [study-learning/](study-learning/) |
+| Productivity & Notes | 10 | [productivity-notes/](productivity-notes/) |
 
 ## Planned categories
 

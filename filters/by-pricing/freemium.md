@@ -39,6 +39,9 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Free with ads, basic steps | $9.99/mo (Plus) |
 | [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Limited uploads/month | $9.99/mo (Pro) |
 | [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | Limited uploads | $14.99/mo (Pro) |
+| [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | Unlimited pages (solo), no AI | $10/user/mo (Plus) + $10 AI |
+| [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | 1,000 blocks, basic AI | $7.99/mo (Pro) |
+| [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | 50 AI credits/mo | $10/maker/mo (Pro) |
 
 ---
 

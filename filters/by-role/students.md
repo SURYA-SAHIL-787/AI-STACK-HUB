@@ -31,6 +31,9 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Step-by-step math explanations |
 | [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Process lecture videos + PDFs into notes |
 | [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | All-in-one study suite |
+| [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | Most-used student note tool; huge template library |
+| [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Free, owns your notes, great for "second brain" |
+| [Mem (Free Trial)](../../categories/productivity-notes/mem.md) | Productivity & Notes | Try AI-organized notes during the trial |
 
 ---
 

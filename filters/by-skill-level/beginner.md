@@ -44,6 +44,11 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Snap a math problem, get step-by-step |
 | [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Upload-and-summarize workflow |
 | [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | One-stop study suite |
+| [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | Massive template community for getting started |
+| [Mem (Free Trial)](../../categories/productivity-notes/mem.md) | Productivity & Notes | No folders to set up — just start writing |
+| [Notion AI](../../categories/productivity-notes/notion-ai.md) | Productivity & Notes | Adds AI inside the Notion you already use |
+| [Mem Pro](../../categories/productivity-notes/mem-pro.md) | Productivity & Notes | Same easy UX as free, full AI |
+| [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | Daily notes structure is simple to follow |
 
 ---
 
