@@ -33,7 +33,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Image Generation](categories/image-generation/) | 10 | Live |
 | Video Generation | 10 | Planned |
 | Audio, Music & Voice | 10 | Planned |
-| Study & Learning | 10 | Planned |
+| [Study & Learning](categories/study-learning/) | 10 | Live |
 | Research & Knowledge | 10 | Planned |
 | Productivity & Notes | 10 | Planned |
 | Design (UI/UX) | 10 | Planned |

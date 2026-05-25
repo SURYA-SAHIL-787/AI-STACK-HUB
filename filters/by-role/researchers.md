@@ -12,6 +12,9 @@ Tools for **literature search, paper summarization, citation management, knowled
 | [QuillBot](../../categories/writing-content/quillbot.md) | Writing & Content | Paraphraser + citation generator for papers |
 | [Grammarly Premium](../../categories/writing-content/grammarly-premium.md) | Writing & Content | Plagiarism checker useful for academic submissions |
 | [Hemingway Editor](../../categories/writing-content/hemingway.md) | Writing & Content | Improves clarity of academic writing |
+| [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | Best free tool for literature review across multiple sources |
+| [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Quickly extract info from research papers |
+| [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Process recorded conference talks alongside PDFs |
 
 ---
 

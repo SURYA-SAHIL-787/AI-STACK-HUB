@@ -24,6 +24,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Bing Image Creator](../../categories/image-generation/bing-image-creator.md) | Image Generation | Free DALL-E 3 via Microsoft |
 | [Playground AI](../../categories/image-generation/playground-ai.md) | Image Generation | Free daily generations, browser-based |
 | [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | The original free image AI, no signup |
+| [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | Upload sources, get summaries/podcasts/Q&A |
+| [Socratic by Google](../../categories/study-learning/socratic.md) | Study & Learning | Free mobile homework helper |
+| [Quizlet (Free)](../../categories/study-learning/quizlet.md) | Study & Learning | Free flashcards + limited AI features |
+| [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Chat with any PDF, free tier |
+| [Knowt](../../categories/study-learning/knowt.md) | Study & Learning | Free Quizlet alternative with built-in AI |
 
 ---
 

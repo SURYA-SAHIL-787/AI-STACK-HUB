@@ -24,6 +24,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | $4.99–9.99/mo | Commercial-safe, Photoshop integration |
 | [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | $8/mo | Best text-in-image rendering |
 | [Recraft](../../categories/image-generation/recraft.md) | Image Generation | $10/mo Basic | Designer-focused, vector + raster |
+| [Khanmigo](../../categories/study-learning/khanmigo.md) | Study & Learning | $4/mo | Khan Academy's AI tutor, Socratic teaching style |
+| [Quizlet Plus](../../categories/study-learning/quizlet-plus.md) | Study & Learning | $7.99/mo | Q-Chat tutor + full Magic Notes |
+| [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | $9.99/mo | Step-by-step math problem solver |
+| [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | $9.99/mo | Summarizes videos/PDFs into notes/flashcards |
+| [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | $14.99/mo | All-in-one study suite with AI tutor |
 
 ---
 

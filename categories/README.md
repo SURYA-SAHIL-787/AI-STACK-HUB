@@ -15,6 +15,7 @@ AI tools grouped by what they do. Each category contains:
 | Chatbots & General AI | 10 | [chatbots-general-ai/](chatbots-general-ai/) |
 | Writing & Content | 10 | [writing-content/](writing-content/) |
 | Image Generation | 10 | [image-generation/](image-generation/) |
+| Study & Learning | 10 | [study-learning/](study-learning/) |
 
 ## Planned categories
 

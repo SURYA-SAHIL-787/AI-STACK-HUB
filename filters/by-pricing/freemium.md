@@ -32,6 +32,13 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | ~25 credits/mo | $9.99/mo (Standard) |
 | [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | Limited daily gens | $8/mo (Plus) |
 | [Recraft](../../categories/image-generation/recraft.md) | Image Generation | 50 credits/day, no commercial | $10/mo (Basic) |
+| [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | 100 notebooks, ~50 sources each | $20/mo (Google AI Pro for Plus) |
+| [Quizlet (Free)](../../categories/study-learning/quizlet.md) | Study & Learning | Unlimited flashcards, limited AI | $7.99/mo (Plus) |
+| [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | 2 PDFs/day, 50 questions | $5/mo (Plus) |
+| [Knowt](../../categories/study-learning/knowt.md) | Study & Learning | All core features, AI flashcards | ~$9/mo (Pro) |
+| [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Free with ads, basic steps | $9.99/mo (Plus) |
+| [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Limited uploads/month | $9.99/mo (Pro) |
+| [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | Limited uploads | $14.99/mo (Pro) |
 
 ---
 

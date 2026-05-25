@@ -21,6 +21,16 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Bing Image Creator](../../categories/image-generation/bing-image-creator.md) | Image Generation | Free DALL-E 3 — great for school projects/posters |
 | [Leonardo.ai (Free)](../../categories/image-generation/leonardo-ai.md) | Image Generation | 150 free tokens/day for presentations |
 | [Craiyon](../../categories/image-generation/craiyon.md) | Image Generation | Zero friction — generate without signup |
+| [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | Best free AI study tool — upload sources and ask anything |
+| [Socratic by Google](../../categories/study-learning/socratic.md) | Study & Learning | Free homework help, K-12 |
+| [Quizlet (Free)](../../categories/study-learning/quizlet.md) | Study & Learning | Flashcards + huge library of student-made sets |
+| [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Chat with textbooks and lecture PDFs |
+| [Knowt](../../categories/study-learning/knowt.md) | Study & Learning | Free Quizlet alternative with AP/IB content |
+| [Khanmigo](../../categories/study-learning/khanmigo.md) | Study & Learning | $4/mo AI tutor following Khan Academy curriculum |
+| [Quizlet Plus](../../categories/study-learning/quizlet-plus.md) | Study & Learning | Full Quizlet AI features for daily users |
+| [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Step-by-step math explanations |
+| [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Process lecture videos + PDFs into notes |
+| [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | All-in-one study suite |
 
 ---
 

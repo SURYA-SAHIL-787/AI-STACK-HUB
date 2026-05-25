@@ -34,6 +34,16 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [DALL-E 3 (ChatGPT Plus)](../../categories/image-generation/dalle-3.md) | Image Generation | Inside ChatGPT — natural conversation |
 | [Adobe Firefly](../../categories/image-generation/adobe-firefly.md) | Image Generation | Browser-based, simple UI |
 | [Ideogram Plus](../../categories/image-generation/ideogram.md) | Image Generation | Same as free, faster speed |
+| [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | Upload sources, get instant summaries |
+| [Socratic by Google](../../categories/study-learning/socratic.md) | Study & Learning | Snap a photo of homework, get explanations |
+| [Quizlet (Free)](../../categories/study-learning/quizlet.md) | Study & Learning | Familiar flashcard workflow |
+| [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Upload PDF, ask questions — simple |
+| [Knowt](../../categories/study-learning/knowt.md) | Study & Learning | Quizlet-like UI, free AI features |
+| [Khanmigo](../../categories/study-learning/khanmigo.md) | Study & Learning | Walks you through Khan Academy lessons |
+| [Quizlet Plus](../../categories/study-learning/quizlet-plus.md) | Study & Learning | Same as free, more AI |
+| [Photomath Plus](../../categories/study-learning/photomath-plus.md) | Study & Learning | Snap a math problem, get step-by-step |
+| [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Upload-and-summarize workflow |
+| [StudyFetch Pro](../../categories/study-learning/studyfetch.md) | Study & Learning | One-stop study suite |
 
 ---
 
