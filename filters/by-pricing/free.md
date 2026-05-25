@@ -34,6 +34,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Mem (Free Trial)](../../categories/productivity-notes/mem.md) | Productivity & Notes | AI-organized notes, free trial |
 | [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | Object-based notes, free up to 1,000 blocks |
 | [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | Open-source local AI for your documents |
+| [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | Resume builder + AI Match Score + tracker |
+| [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | ATS-optimized resume builder, free 1 resume |
+| [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Designer templates, limited free tier |
+| [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | Modern resume designs with AI |
+| [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Truly free, no premium tier |
 
 ---
 

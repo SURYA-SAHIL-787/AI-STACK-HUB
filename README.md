@@ -45,7 +45,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Meetings & Transcription | 10 | Planned |
 | Customer Support | 10 | Planned |
 | Recruiting & HR | 10 | Planned |
-| Resume & Career | 10 | Planned |
+| [Resume & Career](categories/resume-career/) | 10 | Live |
 | Sales & CRM | 10 | Planned |
 | Social Media | 10 | Planned |
 | Browser & Search AI | 10 | Planned |

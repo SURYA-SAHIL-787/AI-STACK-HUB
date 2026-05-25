@@ -42,6 +42,11 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | Unlimited pages (solo), no AI | $10/user/mo (Plus) + $10 AI |
 | [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | 1,000 blocks, basic AI | $7.99/mo (Pro) |
 | [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | 50 AI credits/mo | $10/maker/mo (Pro) |
+| [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | Full builder + basic Match Score | $9/wk (Teal+) |
+| [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | 1 resume, basic AI | $16/mo (Pro) |
+| [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | 1 template, watermarked | $7/mo annual (Premium) |
+| [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | 1 resume, watermarked | $14.99/mo (Pro 3-month) |
+| [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | 5 scans/month | $49.95/mo (Premium) |
 
 ---
 

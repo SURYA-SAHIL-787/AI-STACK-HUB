@@ -34,6 +34,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | $10/mo | Daily-notes app with built-in AI |
 | [Tana](../../categories/productivity-notes/tana.md) | Productivity & Notes | $8/mo | Power-user structured knowledge tool |
 | [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | $10/maker/mo | Docs + databases + AI in one canvas |
+| [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | $9/wk or $79/yr | Unlimited AI, advanced Match Score, weekly pricing for placement bursts |
+| [Rezi Pro](../../categories/resume-career/rezi-pro.md) | Resume & Career | $16/mo or $129 lifetime | Unlimited ATS-optimized resumes; Lifetime option |
+| [Kickresume Premium](../../categories/resume-career/kickresume-premium.md) | Resume & Career | $7/mo (annual) | Designer templates + personal portfolio site |
+| [Enhancv Pro](../../categories/resume-career/enhancv-pro.md) | Resume & Career | $14.99/mo (3-month) | Modern impact-focused resumes |
+| [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | $49.95/mo | Most thorough ATS keyword analysis |
 
 ---
 

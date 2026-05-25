@@ -34,6 +34,11 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Notion (Free)](../../categories/productivity-notes/notion.md) | Productivity & Notes | Most-used student note tool; huge template library |
 | [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Free, owns your notes, great for "second brain" |
 | [Mem (Free Trial)](../../categories/productivity-notes/mem.md) | Productivity & Notes | Try AI-organized notes during the trial |
+| [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | THE tool for placement season — track + tailor + match |
+| [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | ATS optimization for big-company placements |
+| [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Free, no friction — first resume |
+| [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Designer templates for creative roles |
+| [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Weekly pricing perfect for placement bursts ($9/wk) |
 
 ---
 

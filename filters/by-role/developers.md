@@ -19,6 +19,9 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [Poe](../../categories/chatbots-general-ai/poe.md) | Chatbots & General AI | Try many models for coding without multiple subs |
 | [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Local-first notes for code docs, learning logs |
 | [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | Self-hostable RAG over docs and code |
+| [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | Job tracker + AI match — useful for dev role applications |
+| [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | ATS-friendly tech resumes |
+| [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Unlimited tailoring for dev role applications |
 
 ---
 

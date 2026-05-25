@@ -49,6 +49,15 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Notion AI](../../categories/productivity-notes/notion-ai.md) | Productivity & Notes | Adds AI inside the Notion you already use |
 | [Mem Pro](../../categories/productivity-notes/mem-pro.md) | Productivity & Notes | Same easy UX as free, full AI |
 | [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | Daily notes structure is simple to follow |
+| [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | Single dashboard guides you through the job hunt |
+| [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | Simple form-based resume builder |
+| [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Pick template, fill in, done |
+| [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | Modern templates, AI suggestions |
+| [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Truly free, no upsell tricks |
+| [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Same UX as free, unlimited AI |
+| [Rezi Pro](../../categories/resume-career/rezi-pro.md) | Resume & Career | Same form-based UX, unlimited |
+| [Kickresume Premium](../../categories/resume-career/kickresume-premium.md) | Resume & Career | Premium templates, same easy workflow |
+| [Enhancv Pro](../../categories/resume-career/enhancv-pro.md) | Resume & Career | Unlimited resumes with same UX |
 
 ---
 

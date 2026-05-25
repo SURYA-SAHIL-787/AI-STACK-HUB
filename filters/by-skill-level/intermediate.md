@@ -16,6 +16,7 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Obsidian](../../categories/productivity-notes/obsidian.md) | Productivity & Notes | Plugin setup needed for AI; rewards customization |
 | [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | Object-based model takes time to click |
 | [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | Doc-database hybrid; some learning |
+| [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | Most powerful, requires interpreting detailed ATS reports |
 
 ---
 
