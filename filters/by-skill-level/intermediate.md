@@ -17,6 +17,9 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Capacities (Free)](../../categories/productivity-notes/capacities.md) | Productivity & Notes | Object-based model takes time to click |
 | [Coda AI](../../categories/productivity-notes/coda-ai.md) | Productivity & Notes | Doc-database hybrid; some learning |
 | [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | Most powerful, requires interpreting detailed ATS reports |
+| [Runway Standard](../../categories/video-generation/runway-standard.md) | Video Generation | Full editor unlocks advanced workflows |
+| [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | Pikaffects + Twists need creative direction |
+| [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | API-based; developer familiarity helps |
 
 ---
 

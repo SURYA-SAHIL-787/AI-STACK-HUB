@@ -47,6 +47,15 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | 1 template, watermarked | $7/mo annual (Premium) |
 | [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | 1 resume, watermarked | $14.99/mo (Pro 3-month) |
 | [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | 5 scans/month | $49.95/mo (Premium) |
+| [Runway (Free)](../../categories/video-generation/runway.md) | Video Generation | 525 one-time credits, watermarked | $15/mo (Standard) |
+| [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | 250 credits + daily refresh | $10/mo (Standard) |
+| [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 videos/month, watermarked | $9.99/mo (Standard) |
+| [Kling AI](../../categories/video-generation/kling.md) | Video Generation | Daily free credits, watermarked | ~$10/mo (Standard) |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | 10,000 chars/month | $5/mo (Starter) |
+| [Suno (Free)](../../categories/audio-music-voice/suno.md) | Audio, Music & Voice | 10 songs/day, non-commercial | $10/mo (Pro) |
+| [Udio (Free)](../../categories/audio-music-voice/udio.md) | Audio, Music & Voice | ~10 songs/day, non-commercial | $10/mo (Standard) |
+| [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | Free signup credits | $0.12/hour pay-as-you-go |
+| [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | 1 hour transcription/mo | $16/mo (Creator) |
 
 ---
 

@@ -58,6 +58,22 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Rezi Pro](../../categories/resume-career/rezi-pro.md) | Resume & Career | Same form-based UX, unlimited |
 | [Kickresume Premium](../../categories/resume-career/kickresume-premium.md) | Resume & Career | Premium templates, same easy workflow |
 | [Enhancv Pro](../../categories/resume-career/enhancv-pro.md) | Resume & Career | Unlimited resumes with same UX |
+| [Runway (Free)](../../categories/video-generation/runway.md) | Video Generation | Web-based editor with approachable UI |
+| [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | Pick effect, hit go — fun first AI video |
+| [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | Type prompt, get photorealistic video |
+| [Kling AI](../../categories/video-generation/kling.md) | Video Generation | Simple text-to-video workflow |
+| [Hailuo AI](../../categories/video-generation/hailuo.md) | Video Generation | Type and go — easiest free AI video |
+| [Sora (ChatGPT Plus)](../../categories/video-generation/sora.md) | Video Generation | Inside ChatGPT — familiar interface |
+| [Veo 3 (AI Ultra)](../../categories/video-generation/veo.md) | Video Generation | Inside Gemini app, simple prompt UI |
+| [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | Write script, pick avatar, generate |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Type text, pick voice, get audio |
+| [Suno (Free)](../../categories/audio-music-voice/suno.md) | Audio, Music & Voice | Type description, get a song |
+| [Udio (Free)](../../categories/audio-music-voice/udio.md) | Audio, Music & Voice | Similar workflow to Suno |
+| [ElevenLabs Starter](../../categories/audio-music-voice/elevenlabs-starter.md) | Audio, Music & Voice | Same UX as free, voice cloning |
+| [Suno Pro](../../categories/audio-music-voice/suno-pro.md) | Audio, Music & Voice | Same UX as free, commercial use |
+| [Udio Standard](../../categories/audio-music-voice/udio-standard.md) | Audio, Music & Voice | Same UX as free, more credits |
+| [Murf](../../categories/audio-music-voice/murf.md) | Audio, Music & Voice | Pick voice, paste script, render |
+| [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit by transcript — intuitive |
 
 ---
 

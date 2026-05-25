@@ -39,6 +39,12 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Free, no friction — first resume |
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Designer templates for creative roles |
 | [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Weekly pricing perfect for placement bursts ($9/wk) |
+| [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 free videos/month — enough for projects/presentations |
+| [Hailuo AI](../../categories/video-generation/hailuo.md) | Video Generation | Free no-account-friction video for school projects |
+| [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | Free credits + fun effects for social/student content |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Free voiceovers for school presentations/projects |
+| [Suno (Free)](../../categories/audio-music-voice/suno.md) | Audio, Music & Voice | Free songs for fun + non-commercial student projects |
+| [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Free transcription of lecture recordings |
 
 ---
 
