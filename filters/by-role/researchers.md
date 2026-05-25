@@ -15,6 +15,9 @@ Tools for **literature search, paper summarization, citation management, knowled
 | [NotebookLM](../../categories/study-learning/notebooklm.md) | Study & Learning | Best free tool for literature review across multiple sources |
 | [ChatPDF](../../categories/study-learning/chatpdf.md) | Study & Learning | Quickly extract info from research papers |
 | [Mindgrasp Pro](../../categories/study-learning/mindgrasp.md) | Study & Learning | Process recorded conference talks alongside PDFs |
+| [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Free transcription of interviews/lectures |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Transcribe research interviews |
+| [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Free unlimited recording for user research |
 
 ---
 

@@ -7,6 +7,7 @@ Tools for **experienced users** — often require API keys, command-line setup, 
 | [Claude Code](../../categories/coding-development/claude-code.md) | Coding & Development | CLI-based agentic tool, needs terminal comfort and prompt skill |
 | [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | BYO LLM, local hosting, RAG configuration |
 | [Tana](../../categories/productivity-notes/tana.md) | Productivity & Notes | Power-user outliner with steep workflow setup |
+| [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Self-hosted Python install, GPU recommended |
 
 ---
 

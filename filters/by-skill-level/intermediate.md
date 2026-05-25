@@ -20,6 +20,8 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Runway Standard](../../categories/video-generation/runway-standard.md) | Video Generation | Full editor unlocks advanced workflows |
 | [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | Pikaffects + Twists need creative direction |
 | [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | API-based; developer familiarity helps |
+| [Fireflies Pro](../../categories/meetings-transcription/fireflies-pro.md) | Meetings & Transcription | CRM integration setup needed for full value |
+| [Gong](../../categories/meetings-transcription/gong.md) | Meetings & Transcription | Enterprise tool — many workflows to learn |
 
 ---
 

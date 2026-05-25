@@ -56,6 +56,12 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Udio (Free)](../../categories/audio-music-voice/udio.md) | Audio, Music & Voice | ~10 songs/day, non-commercial | $10/mo (Standard) |
 | [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | Free signup credits | $0.12/hour pay-as-you-go |
 | [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | 1 hour transcription/mo | $16/mo (Creator) |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | 300 min/mo, 30-min cap | $16.99/mo (Pro) |
+| [Fireflies.ai (Free)](../../categories/meetings-transcription/fireflies.md) | Meetings & Transcription | Unlimited transcription, limited AI | $18/user/mo (Pro) |
+| [Granola](../../categories/meetings-transcription/granola.md) | Meetings & Transcription | 25 lifetime free notes | $18/mo (Pro) |
+| [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Unlimited recordings, basic AI | $18/user/mo (Pro) |
+| [Read.ai (Free)](../../categories/meetings-transcription/read-ai.md) | Meetings & Transcription | 5 meetings/mo with analytics | $19.75/user/mo (Pro) |
+| [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Unlimited individual use | $32/user/mo (Team) |
 
 ---
 

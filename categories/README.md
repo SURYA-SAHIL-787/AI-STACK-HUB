@@ -19,6 +19,8 @@ AI tools grouped by what they do. Each category contains:
 | Productivity & Notes | 10 | [productivity-notes/](productivity-notes/) |
 | Resume & Career | 10 | [resume-career/](resume-career/) |
 | Video Generation | 10 | [video-generation/](video-generation/) |
+| Audio, Music & Voice | 10 | [audio-music-voice/](audio-music-voice/) |
+| Meetings & Transcription | 10 | [meetings-transcription/](meetings-transcription/) |
 
 ## Planned categories
 

@@ -44,6 +44,16 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 photorealistic videos/month free |
 | [Kling AI](../../categories/video-generation/kling.md) | Video Generation | Chinese model with strong physics, free tier |
 | [Hailuo AI](../../categories/video-generation/hailuo.md) | Video Generation | No-friction free AI video |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | 10,000 chars/month TTS free |
+| [Suno (Free)](../../categories/audio-music-voice/suno.md) | Audio, Music & Voice | 10 songs/day free |
+| [Udio (Free)](../../categories/audio-music-voice/udio.md) | Audio, Music & Voice | Music gen with focus on quality |
+| [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Free open-source transcription model |
+| [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | Free signup credits for transcription API |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | 300 transcription min/month free |
+| [Fireflies.ai (Free)](../../categories/meetings-transcription/fireflies.md) | Meetings & Transcription | Unlimited transcription, meeting bot |
+| [Granola](../../categories/meetings-transcription/granola.md) | Meetings & Transcription | 25 free notes; no-bot Mac app |
+| [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Unlimited recordings + AI summaries |
+| [Read.ai (Free)](../../categories/meetings-transcription/read-ai.md) | Meetings & Transcription | 5 meetings/month with full analytics |
 
 ---
 

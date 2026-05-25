@@ -44,6 +44,16 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Veo 3 (AI Ultra)](../../categories/video-generation/veo.md) | Video Generation | $250/mo | Google's frontier video model |
 | [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | $35/mo | 2,300 credits + Pikaffects |
 | [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | $29/mo | AI presenter videos in 140 languages |
+| [ElevenLabs Starter](../../categories/audio-music-voice/elevenlabs-starter.md) | Audio, Music & Voice | $5/mo | Cheapest voice cloning available |
+| [Suno Pro](../../categories/audio-music-voice/suno-pro.md) | Audio, Music & Voice | $10/mo | 500 songs/mo + commercial use |
+| [Udio Standard](../../categories/audio-music-voice/udio-standard.md) | Audio, Music & Voice | $10/mo | 1,200 credits/mo for music |
+| [Murf](../../categories/audio-music-voice/murf.md) | Audio, Music & Voice | $29/mo | Corporate voiceovers, multi-language |
+| [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | $16/mo | Podcast/video editor with AI |
+| [Otter Pro](../../categories/meetings-transcription/otter-pro.md) | Meetings & Transcription | $16.99/mo | 1,200 min/mo, advanced AI |
+| [Fireflies Pro](../../categories/meetings-transcription/fireflies-pro.md) | Meetings & Transcription | $18/user/mo | CRM integrations, advanced AI |
+| [Fathom Team](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | $32/user/mo (free for individuals) | CRM + team features |
+| [Teams Premium](../../categories/meetings-transcription/teams-premium.md) | Meetings & Transcription | $10/user/mo | AI features for Microsoft Teams |
+| [Gong](../../categories/meetings-transcription/gong.md) | Meetings & Transcription | Enterprise | Revenue intelligence for sales orgs |
 
 ---
 

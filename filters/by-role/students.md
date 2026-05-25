@@ -45,6 +45,9 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Free voiceovers for school presentations/projects |
 | [Suno (Free)](../../categories/audio-music-voice/suno.md) | Audio, Music & Voice | Free songs for fun + non-commercial student projects |
 | [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Free transcription of lecture recordings |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Record lectures, get searchable transcripts |
+| [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Free recording for study groups, mentor calls |
+| [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Unlimited free recording for individuals |
 
 ---
 

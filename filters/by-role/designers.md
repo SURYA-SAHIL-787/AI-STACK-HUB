@@ -22,6 +22,8 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Veo 3 (AI Ultra)](../../categories/video-generation/veo.md) | Video Generation | Top-tier quality for agency/film work |
 | [Pika Pro](../../categories/video-generation/pika-pro.md) | Video Generation | Daily content creation at scale |
 | [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | Presenter videos for marketing/training |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Voiceovers for video/multimedia projects |
+| [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit videos via transcript |
 
 ---
 

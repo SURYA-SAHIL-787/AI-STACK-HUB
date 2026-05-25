@@ -74,6 +74,14 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Udio Standard](../../categories/audio-music-voice/udio-standard.md) | Audio, Music & Voice | Same UX as free, more credits |
 | [Murf](../../categories/audio-music-voice/murf.md) | Audio, Music & Voice | Pick voice, paste script, render |
 | [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit by transcript — intuitive |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Hit record, get transcript |
+| [Fireflies.ai (Free)](../../categories/meetings-transcription/fireflies.md) | Meetings & Transcription | Connect calendar, bot auto-joins |
+| [Granola](../../categories/meetings-transcription/granola.md) | Meetings & Transcription | Just type notes — AI enhances |
+| [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | One-click recorder for Zoom/Meet |
+| [Read.ai (Free)](../../categories/meetings-transcription/read-ai.md) | Meetings & Transcription | Install extension, get analytics |
+| [Otter Pro](../../categories/meetings-transcription/otter-pro.md) | Meetings & Transcription | Same UX as free, more minutes |
+| [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Free + simple workflow |
+| [Teams Premium](../../categories/meetings-transcription/teams-premium.md) | Meetings & Transcription | If you already use Teams, just enable |
 
 ---
 

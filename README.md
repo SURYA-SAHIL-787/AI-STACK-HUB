@@ -32,7 +32,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Writing & Content](categories/writing-content/) | 10 | Live |
 | [Image Generation](categories/image-generation/) | 10 | Live |
 | [Video Generation](categories/video-generation/) | 10 | Live |
-| Audio, Music & Voice | 10 | Planned |
+| [Audio, Music & Voice](categories/audio-music-voice/) | 10 | Live |
 | [Study & Learning](categories/study-learning/) | 10 | Live |
 | Research & Knowledge | 10 | Planned |
 | [Productivity & Notes](categories/productivity-notes/) | 10 | Live |
@@ -42,7 +42,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Email & Communication | 10 | Planned |
 | Translation & Language | 10 | Planned |
 | Data Analysis & Spreadsheets | 10 | Planned |
-| Meetings & Transcription | 10 | Planned |
+| [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
 | Customer Support | 10 | Planned |
 | Recruiting & HR | 10 | Planned |
 | [Resume & Career](categories/resume-career/) | 10 | Live |

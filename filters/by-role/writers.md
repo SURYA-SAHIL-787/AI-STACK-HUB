@@ -21,6 +21,10 @@ Tools for **drafting, editing, paraphrasing, grammar checking, brainstorming, an
 | [Sudowrite](../../categories/writing-content/sudowrite.md) | Writing & Content | Purpose-built for novelists/screenwriters |
 | [Reflect](../../categories/productivity-notes/reflect.md) | Productivity & Notes | Daily-notes app for writers who think by writing |
 | [Notion AI](../../categories/productivity-notes/notion-ai.md) | Productivity & Notes | AI inside Notion docs for drafting/editing |
+| [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Convert your writing to audio narration |
+| [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit interview transcripts like text |
+| [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Transcribe interviews for journalism/research |
+| [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Free unlimited interview recording |
 
 ---
 
