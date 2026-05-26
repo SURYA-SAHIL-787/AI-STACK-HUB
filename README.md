@@ -41,7 +41,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Marketing & SEO](categories/marketing-seo/) | 10 | Live |
 | Email & Communication | 10 | Planned |
 | Translation & Language | 10 | Planned |
-| Data Analysis & Spreadsheets | 10 | Planned |
+| [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | Live |
 | [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
 | Customer Support | 10 | Planned |
 | Recruiting & HR | 10 | Planned |
@@ -102,7 +102,7 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 - [x] Phase 0: Repo created, README written
 - [x] Phase 1: Folder structure + contribution templates
 - [x] Phase 2: Seed first 4 categories (40 tools)
-- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 14/31 done
+- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 15/31 done
 - [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
 - [ ] Phase 5: Open to community contributions at scale
 

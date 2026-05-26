@@ -81,6 +81,11 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Basic trend data free | $2.25/mo+ (Credits) |
 | [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | 3 searches/day | $290 lifetime (Individual) |
 | [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | 10 free queries to evaluate | $149/mo (Standard) |
+| [Julius AI (Free)](../../categories/data-analysis/julius.md) | Data Analysis & Spreadsheets | 15 messages over 7 days | $20/mo (Pro) |
+| [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | Unlimited sheets, limited AI | $59/mo (Plus) |
+| [Polymer Search](../../categories/data-analysis/polymer.md) | Data Analysis & Spreadsheets | Personal use, limited | $25/mo (Starter) |
+| [Sourcetable (Free)](../../categories/data-analysis/sourcetable.md) | Data Analysis & Spreadsheets | Basic + limited AI | $20/mo (Pro) |
+| [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | Free ChatGPT upload limits | $20/mo (ChatGPT Plus) |
 
 ---
 

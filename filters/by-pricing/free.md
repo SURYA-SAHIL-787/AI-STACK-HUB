@@ -74,6 +74,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Free keyword data browser extension |
 | [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | 3 free SEO searches/day from Neil Patel |
 | [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | AI marketing copy + product descriptions |
+| [Julius AI (Free)](../../categories/data-analysis/julius.md) | Data Analysis & Spreadsheets | Chat with CSV/Excel, 15 free messages |
+| [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | AI-native spreadsheet, free tier |
+| [Polymer Search](../../categories/data-analysis/polymer.md) | Data Analysis & Spreadsheets | Spreadsheet → searchable AI database |
+| [Sourcetable (Free)](../../categories/data-analysis/sourcetable.md) | Data Analysis & Spreadsheets | Excel-feel spreadsheet with AI |
+| [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | Free ChatGPT with limited file analysis |
 
 ---
 

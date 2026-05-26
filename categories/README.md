@@ -25,6 +25,7 @@ AI tools grouped by what they do. Each category contains:
 | Design (UI/UX) | 10 | [design-uiux/](design-uiux/) |
 | Presentations & Slides | 10 | [presentations-slides/](presentations-slides/) |
 | Marketing & SEO | 10 | [marketing-seo/](marketing-seo/) |
+| Data Analysis & Spreadsheets | 10 | [data-analysis/](data-analysis/) |
 
 ## Planned categories
 

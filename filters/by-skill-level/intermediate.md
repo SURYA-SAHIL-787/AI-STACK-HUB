@@ -32,6 +32,10 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | Functional UI, SEO knowledge required |
 | [Clearscope](../../categories/marketing-seo/clearscope.md) | Marketing & SEO | Premium but assumes content strategy literacy |
 | [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | Lots of data — strategic thinking required |
+| [Sourcetable (Free)](../../categories/data-analysis/sourcetable.md) | Data Analysis & Spreadsheets | Excel knowledge helps a lot |
+| [Akkio](../../categories/data-analysis/akkio.md) | Data Analysis & Spreadsheets | ML concepts help interpret results |
+| [ThoughtSpot Sage](../../categories/data-analysis/thoughtspot.md) | Data Analysis & Spreadsheets | Requires data warehouse + business analytics literacy |
+| [Tableau Pulse](../../categories/data-analysis/tableau.md) | Data Analysis & Spreadsheets | Best with existing Tableau experience |
 
 ---
 

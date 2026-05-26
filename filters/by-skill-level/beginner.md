@@ -109,6 +109,10 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Install extension, data shows on Google |
 | [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | Beginner-friendly SEO tool from Neil Patel |
 | [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | Pick use case, generate copy |
+| [Julius AI (Free)](../../categories/data-analysis/julius.md) | Data Analysis & Spreadsheets | Upload CSV, ask questions |
+| [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | Spreadsheet familiarity + AI |
+| [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | Drag CSV into ChatGPT, ask anything |
+| [M365 Copilot Excel](../../categories/data-analysis/copilot-excel.md) | Data Analysis & Spreadsheets | AI suggestions inside Excel itself |
 
 ---
 

@@ -31,6 +31,9 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [Sider Pro](../../categories/browser-search/sider.md) | Browser & Search AI | AI sidebar for browsing docs in any browser |
 | [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | Many devs use Figma to review/handoff designs |
 | [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Devs can publish marketing sites without React work |
+| [Julius AI (Free)](../../categories/data-analysis/julius.md) | Data Analysis & Spreadsheets | Quick data analysis without writing Python |
+| [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | See Python code generated as you analyze |
+| [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | Lightweight dashboards with API integrations |
 
 ---
 

@@ -74,6 +74,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | $23/mo | Cheapest serious SEO content tool |
 | [Clearscope](../../categories/marketing-seo/clearscope.md) | Marketing & SEO | $170/mo | Premium SEO content for publishers |
 | [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | $149/mo | AI content intelligence at site level |
+| [Julius Pro](../../categories/data-analysis/julius-pro.md) | Data Analysis & Spreadsheets | $20/mo | Unlimited chat-with-CSV analysis |
+| [Akkio](../../categories/data-analysis/akkio.md) | Data Analysis & Spreadsheets | $49/mo | No-code predictive ML |
+| [ThoughtSpot Sage](../../categories/data-analysis/thoughtspot.md) | Data Analysis & Spreadsheets | Enterprise | AI BI for data warehouses |
+| [Tableau Pulse](../../categories/data-analysis/tableau.md) | Data Analysis & Spreadsheets | $75/user/mo | AI insights on Tableau dashboards |
+| [M365 Copilot Excel](../../categories/data-analysis/copilot-excel.md) | Data Analysis & Spreadsheets | $30/user/mo | AI inside Excel via M365 Copilot |
 
 ---
 
