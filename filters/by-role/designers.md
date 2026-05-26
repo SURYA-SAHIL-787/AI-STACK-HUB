@@ -24,6 +24,16 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Synthesia](../../categories/video-generation/synthesia.md) | Video Generation | Presenter videos for marketing/training |
 | [ElevenLabs (Free)](../../categories/audio-music-voice/elevenlabs.md) | Audio, Music & Voice | Voiceovers for video/multimedia projects |
 | [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit videos via transcript |
+| [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | The industry-standard design tool |
+| [Uizard (Free)](../../categories/design-uiux/uizard.md) | Design (UI/UX) | Text-to-UI for quick mockups |
+| [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | Screenshot-to-design conversion |
+| [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Polished AI mockups, Figma export |
+| [Khroma](../../categories/design-uiux/khroma.md) | Design (UI/UX) | Personalized AI color palettes |
+| [Figma Professional](../../categories/design-uiux/figma-pro.md) | Design (UI/UX) | Full Figma AI (Make, Buzz, Dev Mode) |
+| [Uizard Pro](../../categories/design-uiux/uizard-pro.md) | Design (UI/UX) | Unlimited AI mockup generation |
+| [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | Cheap AI plugin for Figma users |
+| [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | Best web design library + AI sitemap |
+| [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Design + publish websites without code |
 
 ---
 

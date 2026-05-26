@@ -26,6 +26,11 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | Hosted transcription API for your apps |
 | [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Standup/sprint review transcripts |
 | [Fireflies Pro](../../categories/meetings-transcription/fireflies-pro.md) | Meetings & Transcription | Dev team meeting summaries for async work |
+| [Phind Pro](../../categories/browser-search/phind.md) | Browser & Search AI | Developer-focused AI search; grounded in docs/SO |
+| [You.com](../../categories/browser-search/you-com.md) | Browser & Search AI | Code search built into AI engine |
+| [Sider Pro](../../categories/browser-search/sider.md) | Browser & Search AI | AI sidebar for browsing docs in any browser |
+| [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | Many devs use Figma to review/handoff designs |
+| [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Devs can publish marketing sites without React work |
 
 ---
 

@@ -22,6 +22,10 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | API-based; developer familiarity helps |
 | [Fireflies Pro](../../categories/meetings-transcription/fireflies-pro.md) | Meetings & Transcription | CRM integration setup needed for full value |
 | [Gong](../../categories/meetings-transcription/gong.md) | Meetings & Transcription | Enterprise tool — many workflows to learn |
+| [Phind Pro](../../categories/browser-search/phind.md) | Browser & Search AI | Developer-oriented; helps to know coding context |
+| [Figma Professional](../../categories/design-uiux/figma-pro.md) | Design (UI/UX) | Full feature set needs design vocabulary |
+| [Uizard Pro](../../categories/design-uiux/uizard-pro.md) | Design (UI/UX) | More features unlocked, more complexity |
+| [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | Large library; pairs with Webflow workflow |
 
 ---
 

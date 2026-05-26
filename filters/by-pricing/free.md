@@ -54,6 +54,16 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Granola](../../categories/meetings-transcription/granola.md) | Meetings & Transcription | 25 free notes; no-bot Mac app |
 | [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Unlimited recordings + AI summaries |
 | [Read.ai (Free)](../../categories/meetings-transcription/read-ai.md) | Meetings & Transcription | 5 meetings/month with full analytics |
+| [Brave Leo](../../categories/browser-search/brave-leo.md) | Browser & Search AI | Free AI chat built into Brave Browser |
+| [DuckDuckGo AI Chat](../../categories/browser-search/ddg-ai.md) | Browser & Search AI | Anonymous multi-model chatbot |
+| [Arc Search](../../categories/browser-search/arc-search.md) | Browser & Search AI | Free mobile browser with AI summaries |
+| [You.com](../../categories/browser-search/you-com.md) | Browser & Search AI | Free AI search engine |
+| [Microsoft Copilot in Edge](../../categories/browser-search/copilot-edge.md) | Browser & Search AI | Free Copilot sidebar in Edge browser |
+| [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | Industry-standard design tool, free for personal use |
+| [Uizard (Free)](../../categories/design-uiux/uizard.md) | Design (UI/UX) | Text-to-mockup AI |
+| [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | Screenshot/sketch to editable design |
+| [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Text-to-design AI |
+| [Khroma](../../categories/design-uiux/khroma.md) | Design (UI/UX) | Free AI color palette generator |
 
 ---
 

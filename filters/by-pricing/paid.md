@@ -54,6 +54,16 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Fathom Team](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | $32/user/mo (free for individuals) | CRM + team features |
 | [Teams Premium](../../categories/meetings-transcription/teams-premium.md) | Meetings & Transcription | $10/user/mo | AI features for Microsoft Teams |
 | [Gong](../../categories/meetings-transcription/gong.md) | Meetings & Transcription | Enterprise | Revenue intelligence for sales orgs |
+| [Arc Max](../../categories/browser-search/arc-max.md) | Browser & Search AI | ~$10/mo | AI features for Arc Browser |
+| [Comet (Perplexity)](../../categories/browser-search/comet.md) | Browser & Search AI | $20/mo (via Perplexity Pro) | Perplexity's AI-native browser |
+| [Sider Pro](../../categories/browser-search/sider.md) | Browser & Search AI | $10/mo | AI sidebar for any browser |
+| [Phind Pro](../../categories/browser-search/phind.md) | Browser & Search AI | $20/mo | Developer-focused AI search |
+| [Microsoft 365 Copilot](../../categories/browser-search/m365-copilot.md) | Browser & Search AI | $30/user/mo | Full Copilot across M365 apps |
+| [Figma Professional](../../categories/design-uiux/figma-pro.md) | Design (UI/UX) | $15/mo | Industry-standard design with full AI |
+| [Uizard Pro](../../categories/design-uiux/uizard-pro.md) | Design (UI/UX) | $19/mo | Unlimited AI generations + projects |
+| [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | $5/mo | Cheapest way to add AI to Figma |
+| [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | $24/mo | AI sitemap + Figma/Webflow library |
+| [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | $15+/mo | AI website builder with no code |
 
 ---
 

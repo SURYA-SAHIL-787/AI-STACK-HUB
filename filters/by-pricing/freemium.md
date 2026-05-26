@@ -62,6 +62,16 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Unlimited recordings, basic AI | $18/user/mo (Pro) |
 | [Read.ai (Free)](../../categories/meetings-transcription/read-ai.md) | Meetings & Transcription | 5 meetings/mo with analytics | $19.75/user/mo (Pro) |
 | [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Unlimited individual use | $32/user/mo (Team) |
+| [Brave Leo](../../categories/browser-search/brave-leo.md) | Browser & Search AI | Mixtral + Claude Instant, daily limits | $14.99/mo (Premium) |
+| [You.com](../../categories/browser-search/you-com.md) | Browser & Search AI | Basic search + chat | $20/mo (Pro) |
+| [Sider Pro](../../categories/browser-search/sider.md) | Browser & Search AI | Limited daily credits | $10/mo (Pro) |
+| [Phind Pro](../../categories/browser-search/phind.md) | Browser & Search AI | 500 searches/day on Phind model | $20/mo (Pro) |
+| [Microsoft Copilot in Edge](../../categories/browser-search/copilot-edge.md) | Browser & Search AI | Sidebar chat + image gen | $30/user/mo (M365 Copilot) |
+| [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | Unlimited personal files, basic AI | $15/editor/mo (Pro) |
+| [Uizard (Free)](../../categories/design-uiux/uizard.md) | Design (UI/UX) | 3 projects, limited AI | $19/mo (Pro) |
+| [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | 5 projects, limited AI | $14/mo annual (Pro) |
+| [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Limited generations | Verify pricing on website |
+| [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Free subdomain hosting | $5/mo (Mini) |
 
 ---
 

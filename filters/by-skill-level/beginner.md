@@ -82,6 +82,21 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Otter Pro](../../categories/meetings-transcription/otter-pro.md) | Meetings & Transcription | Same UX as free, more minutes |
 | [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Free + simple workflow |
 | [Teams Premium](../../categories/meetings-transcription/teams-premium.md) | Meetings & Transcription | If you already use Teams, just enable |
+| [Brave Leo](../../categories/browser-search/brave-leo.md) | Browser & Search AI | Open Brave, click Leo, done |
+| [DuckDuckGo AI Chat](../../categories/browser-search/ddg-ai.md) | Browser & Search AI | No signup, just chat |
+| [Arc Search](../../categories/browser-search/arc-search.md) | Browser & Search AI | Type query, get AI answer |
+| [You.com](../../categories/browser-search/you-com.md) | Browser & Search AI | Search engine but with chatbot |
+| [Microsoft Copilot in Edge](../../categories/browser-search/copilot-edge.md) | Browser & Search AI | Built into Edge — no setup needed |
+| [Arc Max](../../categories/browser-search/arc-max.md) | Browser & Search AI | Adds AI to Arc — toggle on |
+| [Comet (Perplexity)](../../categories/browser-search/comet.md) | Browser & Search AI | Browser built around Perplexity workflow |
+| [Sider Pro](../../categories/browser-search/sider.md) | Browser & Search AI | Install extension, get AI sidebar |
+| [Figma (Free)](../../categories/design-uiux/figma.md) | Design (UI/UX) | Free, tutorials everywhere, intuitive |
+| [Uizard (Free)](../../categories/design-uiux/uizard.md) | Design (UI/UX) | Text-based — no design skills needed |
+| [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | Drag screenshot, get editable design |
+| [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Type prompt, get polished mockup |
+| [Khroma](../../categories/design-uiux/khroma.md) | Design (UI/UX) | Pick colors, get palettes |
+| [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | Drop into Figma, click to use |
+| [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Designer-friendly UI, no code |
 
 ---
 
