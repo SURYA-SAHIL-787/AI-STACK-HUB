@@ -69,6 +69,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Decktopus Pro](../../categories/presentations-slides/decktopus-pro.md) | Presentations & Slides | $14.99/mo | Brand-aware AI decks |
 | [Tome Pro](../../categories/presentations-slides/tome-pro.md) | Presentations & Slides | $20/mo | Narrative pitch decks for B2B sales |
 | [Copilot for PowerPoint](../../categories/presentations-slides/copilot-powerpoint.md) | Presentations & Slides | $30/user/mo | AI inside PowerPoint via M365 Copilot |
+| [Surfer SEO](../../categories/marketing-seo/surfer.md) | Marketing & SEO | $89/mo | Industry-standard SEO content optimizer |
+| [Frase](../../categories/marketing-seo/frase.md) | Marketing & SEO | $45/mo | AI briefs + writer for SEO content |
+| [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | $23/mo | Cheapest serious SEO content tool |
+| [Clearscope](../../categories/marketing-seo/clearscope.md) | Marketing & SEO | $170/mo | Premium SEO content for publishers |
+| [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | $149/mo | AI content intelligence at site level |
 
 ---
 

@@ -105,6 +105,10 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Gamma Plus](../../categories/presentations-slides/gamma-plus.md) | Presentations & Slides | Same UX as free, more credits |
 | [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | Auto-arranging slides — drop in content |
 | [Copilot for PowerPoint](../../categories/presentations-slides/copilot-powerpoint.md) | Presentations & Slides | Inside PowerPoint — familiar interface |
+| [AnswerThePublic (Free)](../../categories/marketing-seo/answerthepublic.md) | Marketing & SEO | Visual question wheel, intuitive |
+| [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Install extension, data shows on Google |
+| [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | Beginner-friendly SEO tool from Neil Patel |
+| [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | Pick use case, generate copy |
 
 ---
 

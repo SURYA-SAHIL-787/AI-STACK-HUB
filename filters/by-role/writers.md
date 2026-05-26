@@ -25,6 +25,10 @@ Tools for **drafting, editing, paraphrasing, grammar checking, brainstorming, an
 | [Descript](../../categories/audio-music-voice/descript.md) | Audio, Music & Voice | Edit interview transcripts like text |
 | [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Transcribe interviews for journalism/research |
 | [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Free unlimited interview recording |
+| [Surfer SEO](../../categories/marketing-seo/surfer.md) | Marketing & SEO | Essential for SEO-writing freelancers |
+| [Frase](../../categories/marketing-seo/frase.md) | Marketing & SEO | Brief-driven writing workflow |
+| [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | Budget SEO writing tool |
+| [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | E-commerce + marketing copy generation |
 
 ---
 

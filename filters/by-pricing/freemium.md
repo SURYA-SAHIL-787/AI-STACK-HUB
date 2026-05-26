@@ -77,6 +77,10 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [SlidesAI](../../categories/presentations-slides/slidesai.md) | Presentations & Slides | 12 presentations/mo | $10/mo (Pro) |
 | [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Limited AI generations | $20/mo (Pro) |
 | [Plus AI](../../categories/presentations-slides/plus-ai.md) | Presentations & Slides | Limited generations | $10/mo (Pro) |
+| [AnswerThePublic (Free)](../../categories/marketing-seo/answerthepublic.md) | Marketing & SEO | 3 searches/day | $5/mo (Pro) |
+| [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Basic trend data free | $2.25/mo+ (Credits) |
+| [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | 3 searches/day | $290 lifetime (Individual) |
+| [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | 10 free queries to evaluate | $149/mo (Standard) |
 
 ---
 

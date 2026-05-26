@@ -69,6 +69,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [SlidesAI](../../categories/presentations-slides/slidesai.md) | Presentations & Slides | Free Google Slides AI add-on |
 | [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Narrative-driven AI presentations |
 | [Plus AI](../../categories/presentations-slides/plus-ai.md) | Presentations & Slides | Free Google Slides AI with PowerPoint export |
+| [AnswerThePublic (Free)](../../categories/marketing-seo/answerthepublic.md) | Marketing & SEO | 3 free question/keyword searches per day |
+| [SEO.ai (Free Trial)](../../categories/marketing-seo/seo-ai.md) | Marketing & SEO | AI SEO content optimization, trial tier |
+| [Keywords Everywhere (Free)](../../categories/marketing-seo/keywords-everywhere.md) | Marketing & SEO | Free keyword data browser extension |
+| [Ubersuggest (Free)](../../categories/marketing-seo/ubersuggest.md) | Marketing & SEO | 3 free SEO searches/day from Neil Patel |
+| [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | AI marketing copy + product descriptions |
 
 ---
 

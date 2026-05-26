@@ -26,6 +26,12 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Figma Professional](../../categories/design-uiux/figma-pro.md) | Design (UI/UX) | Full feature set needs design vocabulary |
 | [Uizard Pro](../../categories/design-uiux/uizard-pro.md) | Design (UI/UX) | More features unlocked, more complexity |
 | [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | Large library; pairs with Webflow workflow |
+| [SEO.ai (Free Trial)](../../categories/marketing-seo/seo-ai.md) | Marketing & SEO | Needs basic SEO awareness to interpret output |
+| [Surfer SEO](../../categories/marketing-seo/surfer.md) | Marketing & SEO | Powerful but assumes SEO familiarity |
+| [Frase](../../categories/marketing-seo/frase.md) | Marketing & SEO | Brief-driven workflow takes time to master |
+| [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | Functional UI, SEO knowledge required |
+| [Clearscope](../../categories/marketing-seo/clearscope.md) | Marketing & SEO | Premium but assumes content strategy literacy |
+| [MarketMuse](../../categories/marketing-seo/marketmuse.md) | Marketing & SEO | Lots of data — strategic thinking required |
 
 ---
 
