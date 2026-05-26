@@ -72,6 +72,11 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | 5 projects, limited AI | $14/mo annual (Pro) |
 | [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Limited generations | Verify pricing on website |
 | [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Free subdomain hosting | $5/mo (Mini) |
+| [Gamma (Free)](../../categories/presentations-slides/gamma.md) | Presentations & Slides | 400 signup credits | $10/mo (Plus) |
+| [Decktopus AI (Free)](../../categories/presentations-slides/decktopus.md) | Presentations & Slides | 3 decks | $14.99/mo (Pro Plus) |
+| [SlidesAI](../../categories/presentations-slides/slidesai.md) | Presentations & Slides | 12 presentations/mo | $10/mo (Pro) |
+| [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Limited AI generations | $20/mo (Pro) |
+| [Plus AI](../../categories/presentations-slides/plus-ai.md) | Presentations & Slides | Limited generations | $10/mo (Pro) |
 
 ---
 

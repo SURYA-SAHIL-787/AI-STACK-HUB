@@ -34,6 +34,9 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | Cheap AI plugin for Figma users |
 | [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | Best web design library + AI sitemap |
 | [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Design + publish websites without code |
+| [Gamma (Free)](../../categories/presentations-slides/gamma.md) | Presentations & Slides | Quick design-quality decks for portfolio pitches |
+| [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | Auto-layout decks with design polish |
+| [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Story-driven decks for design case studies |
 
 ---
 

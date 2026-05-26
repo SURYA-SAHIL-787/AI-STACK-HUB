@@ -64,6 +64,11 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | $5/mo | Cheapest way to add AI to Figma |
 | [Relume](../../categories/design-uiux/relume.md) | Design (UI/UX) | $24/mo | AI sitemap + Figma/Webflow library |
 | [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | $15+/mo | AI website builder with no code |
+| [Gamma Plus](../../categories/presentations-slides/gamma-plus.md) | Presentations & Slides | $10/mo | Most-recommended paid AI deck tool |
+| [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | $12/mo | Polished pitch-deck focus |
+| [Decktopus Pro](../../categories/presentations-slides/decktopus-pro.md) | Presentations & Slides | $14.99/mo | Brand-aware AI decks |
+| [Tome Pro](../../categories/presentations-slides/tome-pro.md) | Presentations & Slides | $20/mo | Narrative pitch decks for B2B sales |
+| [Copilot for PowerPoint](../../categories/presentations-slides/copilot-powerpoint.md) | Presentations & Slides | $30/user/mo | AI inside PowerPoint via M365 Copilot |
 
 ---
 

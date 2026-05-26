@@ -64,6 +64,11 @@ Tools that are **fully free** — no credit card, no time-limited trial. Include
 | [Visily (Free)](../../categories/design-uiux/visily.md) | Design (UI/UX) | Screenshot/sketch to editable design |
 | [Galileo AI (Free)](../../categories/design-uiux/galileo.md) | Design (UI/UX) | Text-to-design AI |
 | [Khroma](../../categories/design-uiux/khroma.md) | Design (UI/UX) | Free AI color palette generator |
+| [Gamma (Free)](../../categories/presentations-slides/gamma.md) | Presentations & Slides | Most popular AI deck maker, 400 free credits |
+| [Decktopus AI (Free)](../../categories/presentations-slides/decktopus.md) | Presentations & Slides | AI deck builder, brand-aware |
+| [SlidesAI](../../categories/presentations-slides/slidesai.md) | Presentations & Slides | Free Google Slides AI add-on |
+| [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Narrative-driven AI presentations |
+| [Plus AI](../../categories/presentations-slides/plus-ai.md) | Presentations & Slides | Free Google Slides AI with PowerPoint export |
 
 ---
 

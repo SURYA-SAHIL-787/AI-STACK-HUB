@@ -97,6 +97,14 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Khroma](../../categories/design-uiux/khroma.md) | Design (UI/UX) | Pick colors, get palettes |
 | [Magician for Figma](../../categories/design-uiux/magician.md) | Design (UI/UX) | Drop into Figma, click to use |
 | [Framer AI](../../categories/design-uiux/framer.md) | Design (UI/UX) | Designer-friendly UI, no code |
+| [Gamma (Free)](../../categories/presentations-slides/gamma.md) | Presentations & Slides | Type prompt, get full deck |
+| [Decktopus AI (Free)](../../categories/presentations-slides/decktopus.md) | Presentations & Slides | Pick template, AI fills it in |
+| [SlidesAI](../../categories/presentations-slides/slidesai.md) | Presentations & Slides | Adds AI inside Google Slides |
+| [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Story-flow workflow is intuitive |
+| [Plus AI](../../categories/presentations-slides/plus-ai.md) | Presentations & Slides | Familiar Google Slides UX with AI |
+| [Gamma Plus](../../categories/presentations-slides/gamma-plus.md) | Presentations & Slides | Same UX as free, more credits |
+| [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | Auto-arranging slides — drop in content |
+| [Copilot for PowerPoint](../../categories/presentations-slides/copilot-powerpoint.md) | Presentations & Slides | Inside PowerPoint — familiar interface |
 
 ---
 

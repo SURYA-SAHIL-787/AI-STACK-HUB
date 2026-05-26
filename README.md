@@ -37,7 +37,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Research & Knowledge | 10 | Planned |
 | [Productivity & Notes](categories/productivity-notes/) | 10 | Live |
 | [Design (UI/UX)](categories/design-uiux/) | 10 | Live |
-| Presentations & Slides | 10 | Planned |
+| [Presentations & Slides](categories/presentations-slides/) | 10 | Live |
 | Marketing & SEO | 10 | Planned |
 | Email & Communication | 10 | Planned |
 | Translation & Language | 10 | Planned |
@@ -102,7 +102,7 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 - [x] Phase 0: Repo created, README written
 - [x] Phase 1: Folder structure + contribution templates
 - [x] Phase 2: Seed first 4 categories (40 tools)
-- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 12/31 done
+- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 13/31 done
 - [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
 - [ ] Phase 5: Open to community contributions at scale
 
