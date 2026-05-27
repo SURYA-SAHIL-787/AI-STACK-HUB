@@ -8,6 +8,8 @@ Tools for **experienced users** — often require API keys, command-line setup, 
 | [AnythingLLM](../../categories/productivity-notes/anythingllm.md) | Productivity & Notes | BYO LLM, local hosting, RAG configuration |
 | [Tana](../../categories/productivity-notes/tana.md) | Productivity & Notes | Power-user outliner with steep workflow setup |
 | [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Self-hosted Python install, GPU recommended |
+| [n8n](../../categories/workflow-automation/n8n.md) | Workflow Automation | Self-host requires Docker/Node.js, AI agents need prompt skill |
+| [n8n Cloud](../../categories/workflow-automation/n8n-cloud.md) | Workflow Automation | Cloud removes setup but AI agent design is advanced |
 
 ---
 
