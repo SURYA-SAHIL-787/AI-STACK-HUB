@@ -26,6 +26,8 @@ AI tools grouped by what they do. Each category contains:
 | Presentations & Slides | 10 | [presentations-slides/](presentations-slides/) |
 | Marketing & SEO | 10 | [marketing-seo/](marketing-seo/) |
 | Data Analysis & Spreadsheets | 10 | [data-analysis/](data-analysis/) |
+| Workflow Automation | 10 | [workflow-automation/](workflow-automation/) |
+| LLM APIs & Platforms | 10 | [llm-apis/](llm-apis/) |
 
 ## Planned categories
 

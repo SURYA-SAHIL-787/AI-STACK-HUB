@@ -56,8 +56,8 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Legal AI | 10 | Planned |
 | Healthcare AI | 10 | Planned |
 | Finance & Trading | 10 | Planned |
-| LLM APIs & Platforms | 10 | Planned |
-| Workflow Automation | 10 | Planned |
+| [LLM APIs & Platforms](categories/llm-apis/) | 10 | Live |
+| [Workflow Automation](categories/workflow-automation/) | 10 | Live |
 
 See [categories/](categories/) for the full directory.
 
