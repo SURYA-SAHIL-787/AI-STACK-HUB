@@ -30,6 +30,7 @@ AI tools grouped by what they do. Each category contains:
 | LLM APIs & Platforms | 10 | [llm-apis/](llm-apis/) |
 | Email & Communication | 10 | [email-communication/](email-communication/) |
 | Translation & Language | 10 | [translation-language/](translation-language/) |
+| Autonomous Coding Agents | 10 | [coding-agents/](coding-agents/) |
 
 ## Planned categories
 

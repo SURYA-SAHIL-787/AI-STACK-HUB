@@ -49,7 +49,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Sales & CRM | 10 | Planned |
 | Social Media | 10 | Planned |
 | [Browser & Search AI](categories/browser-search/) | 10 | Live |
-| Autonomous Coding Agents | 10 | Planned |
+| [Autonomous Coding Agents](categories/coding-agents/) | 10 | Live |
 | 3D Modeling & Animation | 10 | Planned |
 | Avatars & Characters | 10 | Planned |
 | Game Development | 10 | Planned |
