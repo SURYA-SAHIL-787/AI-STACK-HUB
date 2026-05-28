@@ -28,6 +28,7 @@ AI tools grouped by what they do. Each category contains:
 | Data Analysis & Spreadsheets | 10 | [data-analysis/](data-analysis/) |
 | Workflow Automation | 10 | [workflow-automation/](workflow-automation/) |
 | LLM APIs & Platforms | 10 | [llm-apis/](llm-apis/) |
+| Email & Communication | 10 | [email-communication/](email-communication/) |
 
 ## Planned categories
 
