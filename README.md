@@ -34,7 +34,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Video Generation](categories/video-generation/) | 10 | Live |
 | [Audio, Music & Voice](categories/audio-music-voice/) | 10 | Live |
 | [Study & Learning](categories/study-learning/) | 10 | Live |
-| Research & Knowledge | 10 | Planned |
+| [Research & Knowledge](categories/research-knowledge/) | 10 | Live |
 | [Productivity & Notes](categories/productivity-notes/) | 10 | Live |
 | [Design (UI/UX)](categories/design-uiux/) | 10 | Live |
 | [Presentations & Slides](categories/presentations-slides/) | 10 | Live |

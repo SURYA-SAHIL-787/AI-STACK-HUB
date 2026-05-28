@@ -31,6 +31,7 @@ AI tools grouped by what they do. Each category contains:
 | Email & Communication | 10 | [email-communication/](email-communication/) |
 | Translation & Language | 10 | [translation-language/](translation-language/) |
 | Autonomous Coding Agents | 10 | [coding-agents/](coding-agents/) |
+| Research & Knowledge | 10 | [research-knowledge/](research-knowledge/) |
 
 ## Planned categories
 
