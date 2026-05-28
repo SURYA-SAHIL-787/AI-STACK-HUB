@@ -29,6 +29,7 @@ AI tools grouped by what they do. Each category contains:
 | Workflow Automation | 10 | [workflow-automation/](workflow-automation/) |
 | LLM APIs & Platforms | 10 | [llm-apis/](llm-apis/) |
 | Email & Communication | 10 | [email-communication/](email-communication/) |
+| Translation & Language | 10 | [translation-language/](translation-language/) |
 
 ## Planned categories
 

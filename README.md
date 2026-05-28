@@ -40,7 +40,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Presentations & Slides](categories/presentations-slides/) | 10 | Live |
 | [Marketing & SEO](categories/marketing-seo/) | 10 | Live |
 | [Email & Communication](categories/email-communication/) | 10 | Live |
-| Translation & Language | 10 | Planned |
+| [Translation & Language](categories/translation-language/) | 10 | Live |
 | [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | Live |
 | [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
 | Customer Support | 10 | Planned |
