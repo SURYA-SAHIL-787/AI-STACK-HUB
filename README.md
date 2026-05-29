@@ -46,7 +46,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | Customer Support | 10 | Planned |
 | Recruiting & HR | 10 | Planned |
 | [Resume & Career](categories/resume-career/) | 10 | Live |
-| Sales & CRM | 10 | Planned |
+| [Sales & CRM](categories/sales-crm/) | 10 | Live |
 | Social Media | 10 | Planned |
 | [Browser & Search AI](categories/browser-search/) | 10 | Live |
 | [Autonomous Coding Agents](categories/coding-agents/) | 10 | Live |

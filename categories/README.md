@@ -32,6 +32,7 @@ AI tools grouped by what they do. Each category contains:
 | Translation & Language | 10 | [translation-language/](translation-language/) |
 | Autonomous Coding Agents | 10 | [coding-agents/](coding-agents/) |
 | Research & Knowledge | 10 | [research-knowledge/](research-knowledge/) |
+| Sales & CRM | 10 | [sales-crm/](sales-crm/) |
 
 ## Planned categories
 
