@@ -34,6 +34,7 @@ AI tools grouped by what they do. Each category contains:
 | Research & Knowledge | 10 | [research-knowledge/](research-knowledge/) |
 | Sales & CRM | 10 | [sales-crm/](sales-crm/) |
 | Social Media | 10 | [social-media/](social-media/) |
+| Customer Support | 10 | [customer-support/](customer-support/) |
 
 ## Planned categories
 

@@ -43,7 +43,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Translation & Language](categories/translation-language/) | 10 | Live |
 | [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | Live |
 | [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
-| Customer Support | 10 | Planned |
+| [Customer Support](categories/customer-support/) | 10 | Live |
 | Recruiting & HR | 10 | Planned |
 | [Resume & Career](categories/resume-career/) | 10 | Live |
 | [Sales & CRM](categories/sales-crm/) | 10 | Live |
