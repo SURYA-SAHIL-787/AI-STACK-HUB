@@ -38,6 +38,7 @@ AI tools grouped by what they do. Each category contains:
 | Recruiting & HR | 10 | [recruiting-hr/](recruiting-hr/) |
 | 3D Modeling & Animation | 10 | [3d-animation/](3d-animation/) |
 | Avatars & Characters | 10 | [avatars-characters/](avatars-characters/) |
+| Game Development | 10 | [game-dev/](game-dev/) |
 
 ## Planned categories
 
