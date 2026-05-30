@@ -36,6 +36,7 @@ AI tools grouped by what they do. Each category contains:
 | Social Media | 10 | [social-media/](social-media/) |
 | Customer Support | 10 | [customer-support/](customer-support/) |
 | Recruiting & HR | 10 | [recruiting-hr/](recruiting-hr/) |
+| 3D Modeling & Animation | 10 | [3d-animation/](3d-animation/) |
 
 ## Planned categories
 
