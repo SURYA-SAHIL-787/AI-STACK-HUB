@@ -51,7 +51,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Browser & Search AI](categories/browser-search/) | 10 | Live |
 | [Autonomous Coding Agents](categories/coding-agents/) | 10 | Live |
 | [3D Modeling & Animation](categories/3d-animation/) | 10 | Live |
-| Avatars & Characters | 10 | Planned |
+| [Avatars & Characters](categories/avatars-characters/) | 10 | Live |
 | Game Development | 10 | Planned |
 | Legal AI | 10 | Planned |
 | Healthcare AI | 10 | Planned |
