@@ -53,7 +53,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [3D Modeling & Animation](categories/3d-animation/) | 10 | Live |
 | [Avatars & Characters](categories/avatars-characters/) | 10 | Live |
 | [Game Development](categories/game-dev/) | 10 | Live |
-| Legal AI | 10 | Planned |
+| [Legal AI](categories/legal-ai/) | 10 | Live |
 | Healthcare AI | 10 | Planned |
 | Finance & Trading | 10 | Planned |
 | [LLM APIs & Platforms](categories/llm-apis/) | 10 | Live |
