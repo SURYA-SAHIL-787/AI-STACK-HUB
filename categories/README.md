@@ -33,6 +33,7 @@ AI tools grouped by what they do. Each category contains:
 | Autonomous Coding Agents | 10 | [coding-agents/](coding-agents/) |
 | Research & Knowledge | 10 | [research-knowledge/](research-knowledge/) |
 | Sales & CRM | 10 | [sales-crm/](sales-crm/) |
+| Social Media | 10 | [social-media/](social-media/) |
 
 ## Planned categories
 
