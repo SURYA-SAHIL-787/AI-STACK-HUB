@@ -35,6 +35,7 @@ AI tools grouped by what they do. Each category contains:
 | Sales & CRM | 10 | [sales-crm/](sales-crm/) |
 | Social Media | 10 | [social-media/](social-media/) |
 | Customer Support | 10 | [customer-support/](customer-support/) |
+| Recruiting & HR | 10 | [recruiting-hr/](recruiting-hr/) |
 
 ## Planned categories
 

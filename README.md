@@ -44,7 +44,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | Live |
 | [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
 | [Customer Support](categories/customer-support/) | 10 | Live |
-| Recruiting & HR | 10 | Planned |
+| [Recruiting & HR](categories/recruiting-hr/) | 10 | Live |
 | [Resume & Career](categories/resume-career/) | 10 | Live |
 | [Sales & CRM](categories/sales-crm/) | 10 | Live |
 | [Social Media](categories/social-media/) | 10 | Live |
