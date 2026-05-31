@@ -36,6 +36,34 @@ Tools that **assume some familiarity** with the domain — basic prompting, awar
 | [Akkio](../../categories/data-analysis/akkio.md) | Data Analysis & Spreadsheets | ML concepts help interpret results |
 | [ThoughtSpot Sage](../../categories/data-analysis/thoughtspot.md) | Data Analysis & Spreadsheets | Requires data warehouse + business analytics literacy |
 | [Tableau Pulse](../../categories/data-analysis/tableau.md) | Data Analysis & Spreadsheets | Best with existing Tableau experience |
+| [Elicit](../../categories/research-knowledge/elicit.md) | Research & Knowledge | Structured extraction needs research literacy |
+| [SciSpace](../../categories/research-knowledge/scispace.md) | Research & Knowledge | More useful if you can evaluate paper quality |
+| [Scite](../../categories/research-knowledge/scite.md) | Research & Knowledge | Citation analysis requires academic context |
+| [Shortwave](../../categories/email-communication/shortwave.md) | Email & Communication | Power-user inbox features benefit experienced users |
+| [Lavender](../../categories/email-communication/lavender.md) | Email & Communication | Sales email context needed to use feedback |
+| [DeepL Pro](../../categories/translation-language/deepl-pro.md) | Translation & Language | Glossary and API features need integration intent |
+| [Crowdin](../../categories/translation-language/crowdin.md) | Translation & Language | Software i18n knowledge assumed |
+| [Intercom Fin](../../categories/customer-support/intercom-fin.md) | Customer Support | Support workflow setup and routing logic |
+| [Zendesk AI](../../categories/customer-support/zendesk-ai.md) | Customer Support | Helpdesk admin experience needed |
+| [Apollo.io](../../categories/sales-crm/apollo.md) | Sales & CRM | Outbound sales motion knowledge |
+| [Clay](../../categories/sales-crm/clay.md) | Sales & CRM | Data enrichment + sequence building |
+| [Outreach](../../categories/sales-crm/outreach.md) | Sales & CRM | Sales ops familiarity assumed |
+| [Hootsuite](../../categories/social-media/hootsuite.md) | Social Media | Multi-channel strategy knowledge helps |
+| [Postwise](../../categories/social-media/postwise.md) | Social Media | X/Twitter growth strategy needed to evaluate |
+| [Cursor Pro](../../categories/coding-agents/cursor-agent.md) | Autonomous Coding Agents | More powerful with strong prompting skills |
+| [Windsurf Cascade](../../categories/coding-agents/windsurf-cascade.md) | Autonomous Coding Agents | Multi-file agent tasks need codebase context |
+| [Inworld AI](../../categories/game-dev/inworld.md) | Game Development | NPC design and character scripting context |
+| [Scenario.gg](../../categories/game-dev/scenario.md) | Game Development | Game art pipeline knowledge needed |
+| [Open Evidence](../../categories/healthcare-ai/open-evidence.md) | Healthcare AI | Clinical training required to evaluate results |
+| [Glass Health](../../categories/healthcare-ai/glass-health.md) | Healthcare AI | Medical reasoning basis needed |
+| [FinChat](../../categories/finance-trading/finchat.md) | Finance & Trading | Financial statement literacy helps |
+| [TradingView AI](../../categories/finance-trading/tradingview-ai.md) | Finance & Trading | Basic chart-reading skills assumed |
+| [Composer](../../categories/finance-trading/composer.md) | Finance & Trading | Portfolio strategy + backtest interpretation |
+| [Cohere](../../categories/llm-apis/cohere.md) | LLM APIs & Platforms | API basics, knows what embeddings are |
+| [Together AI](../../categories/llm-apis/together-ai.md) | LLM APIs & Platforms | Familiar with open-source models |
+| [Pipedream](../../categories/workflow-automation/pipedream.md) | Workflow Automation | Basic JS/API knowledge helpful |
+| [Make (Core)](../../categories/workflow-automation/make-core.md) | Workflow Automation | Multi-step flows benefit from logical thinking |
+| [Bardeen](../../categories/workflow-automation/bardeen.md) | Workflow Automation | Knowing which workflows to build matters |
 
 ---
 

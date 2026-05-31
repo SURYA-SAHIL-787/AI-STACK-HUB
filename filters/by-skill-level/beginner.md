@@ -113,6 +113,42 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | Spreadsheet familiarity + AI |
 | [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | Drag CSV into ChatGPT, ask anything |
 | [M365 Copilot Excel](../../categories/data-analysis/copilot-excel.md) | Data Analysis & Spreadsheets | AI suggestions inside Excel itself |
+| [Consensus](../../categories/research-knowledge/consensus.md) | Research & Knowledge | Ask a question, get cited answer |
+| [Connected Papers](../../categories/research-knowledge/connected-papers.md) | Research & Knowledge | Paste a paper, explore visually |
+| [Semantic Scholar](../../categories/research-knowledge/semantic-scholar.md) | Research & Knowledge | Google-like search for academic papers |
+| [Gmail + Gemini](../../categories/email-communication/gmail.md) | Email & Communication | Already in Gmail — just click Gemini |
+| [Spike (Free)](../../categories/email-communication/spike.md) | Email & Communication | Chat-style email, zero learning curve |
+| [DeepL (Free)](../../categories/translation-language/deepl.md) | Translation & Language | Paste text, get translation |
+| [Google Translate](../../categories/translation-language/google-translate.md) | Translation & Language | Translate anything, everywhere |
+| [Tidio (Free)](../../categories/customer-support/tidio.md) | Customer Support | Plug-in widget + guided setup |
+| [HubSpot Service Hub (Free)](../../categories/customer-support/hubspot-service.md) | Customer Support | Guided onboarding, free forever |
+| [HubSpot CRM (Free)](../../categories/sales-crm/hubspot-free.md) | Sales & CRM | Free, easy import, no training needed |
+| [ChatSpot (Free)](../../categories/sales-crm/chatspot.md) | Sales & CRM | Chat to query your HubSpot data |
+| [Buffer (Free)](../../categories/social-media/buffer.md) | Social Media | Connect channel, schedule in 60 sec |
+| [ChatGPT for Social](../../categories/social-media/chatgpt-social.md) | Social Media | Paste context, get captions instantly |
+| [Cline (Open Source)](../../categories/coding-agents/cline.md) | Autonomous Coding Agents | VS Code extension install, BYOK |
+| [V0](../../categories/coding-agents/v0.md) | Autonomous Coding Agents | Describe UI in English, get React code |
+| [Bolt](../../categories/coding-agents/bolt.md) | Autonomous Coding Agents | Type app idea, get running prototype |
+| [Spline (Free)](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | Browser-based, no install |
+| [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | Text prompt → 3D model in minutes |
+| [Character.ai (Free)](../../categories/avatars-characters/character-ai.md) | Avatars & Characters | Sign up, pick character, start chatting |
+| [Ready Player Me (Free)](../../categories/avatars-characters/ready-player-me.md) | Avatars & Characters | Selfie → avatar in under 2 minutes |
+| [HeyGen (Free)](../../categories/avatars-characters/heygen-free.md) | Avatars & Characters | Text + avatar template = video |
+| [AI Dungeon (Free)](../../categories/game-dev/ai-dungeon.md) | Game Development | Play-style UI, no game dev knowledge |
+| [ChatGPT for Game Dev](../../categories/game-dev/chatgpt-gamedev.md) | Game Development | Describe mechanic, get code snippet |
+| [ChatGPT for Legal (Free)](../../categories/legal-ai/chatgpt-legal.md) | Legal AI | Ask plainly, get plain-English answer |
+| [DoNotPay (Free)](../../categories/legal-ai/donotpay.md) | Legal AI | Guided flow, no legal knowledge needed |
+| [Detangle.ai (Free)](../../categories/legal-ai/detangle.md) | Legal AI | Paste document, get plain summary |
+| [Ada Health (Free)](../../categories/healthcare-ai/ada-health.md) | Healthcare AI | App-guided symptom interview |
+| [Doximity GPT (Free)](../../categories/healthcare-ai/doximity-gpt.md) | Healthcare AI | Free, HIPAA-aware, chat interface |
+| [ChatGPT for Finance (Free)](../../categories/finance-trading/chatgpt-finance.md) | Finance & Trading | Ask any finance question in plain English |
+| [Perplexity Finance (Free)](../../categories/finance-trading/perplexity-finance.md) | Finance & Trading | Search and get sourced market answers |
+| [Cleo (Free)](../../categories/finance-trading/cleo.md) | Finance & Trading | Connect bank, chat about budget |
+| [Google AI Studio (Free)](../../categories/llm-apis/google-ai-studio.md) | LLM APIs & Platforms | GUI for testing Gemini — no code needed |
+| [OpenRouter (Free)](../../categories/llm-apis/openrouter.md) | LLM APIs & Platforms | One API key for many models |
+| [Make (Free)](../../categories/workflow-automation/make.md) | Workflow Automation | Visual drag-and-drop builder |
+| [IFTTT (Free)](../../categories/workflow-automation/ifttt.md) | Workflow Automation | Simple triggers for everyday automations |
+| [Zapier (Free)](../../categories/workflow-automation/zapier.md) | Workflow Automation | GUI builder, no code, huge app library |
 
 ---
 
