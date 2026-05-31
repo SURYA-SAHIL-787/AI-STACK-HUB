@@ -54,7 +54,7 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 | [Avatars & Characters](categories/avatars-characters/) | 10 | Live |
 | [Game Development](categories/game-dev/) | 10 | Live |
 | [Legal AI](categories/legal-ai/) | 10 | Live |
-| Healthcare AI | 10 | Planned |
+| [Healthcare AI](categories/healthcare-ai/) | 10 | Live |
 | Finance & Trading | 10 | Planned |
 | [LLM APIs & Platforms](categories/llm-apis/) | 10 | Live |
 | [Workflow Automation](categories/workflow-automation/) | 10 | Live |
@@ -102,7 +102,7 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 - [x] Phase 0: Repo created, README written
 - [x] Phase 1: Folder structure + contribution templates
 - [x] Phase 2: Seed first 4 categories (40 tools)
-- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 15/31 done
+- [ ] Phase 3: Expand to all 30+ categories (300+ tools) — 30/31 done
 - [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
 - [ ] Phase 5: Open to community contributions at scale
 
