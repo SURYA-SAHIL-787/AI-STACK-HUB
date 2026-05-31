@@ -48,6 +48,18 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Record lectures, get searchable transcripts |
 | [tl;dv (Free)](../../categories/meetings-transcription/tldv.md) | Meetings & Transcription | Free recording for study groups, mentor calls |
 | [Fathom](../../categories/meetings-transcription/fathom.md) | Meetings & Transcription | Unlimited free recording for individuals |
+| [Semantic Scholar](../../categories/research-knowledge/semantic-scholar.md) | Research & Knowledge | Free academic search — replaces Google Scholar |
+| [Consensus](../../categories/research-knowledge/consensus.md) | Research & Knowledge | Get cited research answers for essays |
+| [Elicit](../../categories/research-knowledge/elicit.md) | Research & Knowledge | Literature review in minutes not days |
+| [Connected Papers](../../categories/research-knowledge/connected-papers.md) | Research & Knowledge | Discover related papers visually |
+| [DeepL (Free)](../../categories/translation-language/deepl.md) | Translation & Language | Better than Google Translate for academic text |
+| [Cleo (Free)](../../categories/finance-trading/cleo.md) | Finance & Trading | Free personal finance AI — good for first jobs |
+| [ChatGPT for Finance](../../categories/finance-trading/chatgpt-finance.md) | Finance & Trading | Learn finance concepts + Excel formulas |
+| [TradingView AI (Free)](../../categories/finance-trading/tradingview-ai.md) | Finance & Trading | Learn chart reading for free |
+| [Google AI Studio (Free)](../../categories/llm-apis/google-ai-studio.md) | LLM APIs & Platforms | Free Gemini API for student projects |
+| [HuggingFace (Free)](../../categories/llm-apis/huggingface.md) | LLM APIs & Platforms | Free model hosting for research projects |
+| [Aider (Open Source)](../../categories/coding-agents/aider.md) | Autonomous Coding Agents | Free BYOK coding agent for CS students |
+| [Make (Free)](../../categories/workflow-automation/make.md) | Workflow Automation | Automate student workflows, no code |
 
 ---
 

@@ -34,6 +34,22 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [Julius AI (Free)](../../categories/data-analysis/julius.md) | Data Analysis & Spreadsheets | Quick data analysis without writing Python |
 | [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | See Python code generated as you analyze |
 | [Rows (Free)](../../categories/data-analysis/rows.md) | Data Analysis & Spreadsheets | Lightweight dashboards with API integrations |
+| [Aider (Open Source)](../../categories/coding-agents/aider.md) | Autonomous Coding Agents | Terminal-first BYOK agent — great for CLI devs |
+| [Cline (Open Source)](../../categories/coding-agents/cline.md) | Autonomous Coding Agents | VS Code agent with full file access |
+| [Cursor Pro](../../categories/coding-agents/cursor-agent.md) | Autonomous Coding Agents | Best AI code editor for daily dev work |
+| [Windsurf Cascade](../../categories/coding-agents/windsurf-cascade.md) | Autonomous Coding Agents | Multi-file agent tasks across large codebases |
+| [Continue.dev](../../categories/coding-agents/continue-dev.md) | Autonomous Coding Agents | Open-source IDE plugin, any LLM backend |
+| [OpenAI API](../../categories/llm-apis/openai-api.md) | LLM APIs & Platforms | Build on GPT-4o and o1 |
+| [Anthropic API](../../categories/llm-apis/anthropic-api.md) | LLM APIs & Platforms | Build on Claude — strong for code + long context |
+| [Groq](../../categories/llm-apis/groq.md) | LLM APIs & Platforms | Ultra-fast inference for real-time features |
+| [HuggingFace](../../categories/llm-apis/huggingface.md) | LLM APIs & Platforms | Open-source model hub + free inference |
+| [OpenRouter](../../categories/llm-apis/openrouter.md) | LLM APIs & Platforms | One API for all major models |
+| [n8n](../../categories/workflow-automation/n8n.md) | Workflow Automation | Open-source automation with code nodes |
+| [Pipedream](../../categories/workflow-automation/pipedream.md) | Workflow Automation | Event-driven JS/Python automation |
+| [Make](../../categories/workflow-automation/make.md) | Workflow Automation | Visual automation without infrastructure setup |
+| [Chatbase](../../categories/customer-support/chatbase.md) | Customer Support | Build custom AI chatbot on your docs fast |
+| [V0 (Vercel)](../../categories/coding-agents/v0.md) | Autonomous Coding Agents | React component generation from prompts |
+| [Bolt](../../categories/coding-agents/bolt.md) | Autonomous Coding Agents | Fullstack prototype without leaving the browser |
 
 ---
 

@@ -37,6 +37,14 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Gamma (Free)](../../categories/presentations-slides/gamma.md) | Presentations & Slides | Quick design-quality decks for portfolio pitches |
 | [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | Auto-layout decks with design polish |
 | [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Story-driven decks for design case studies |
+| [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | Text to 3D — useful for 3D UI/product design |
+| [Spline (Free)](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | Browser 3D design tool with Figma-like UX |
+| [HeyGen (Free)](../../categories/avatars-characters/heygen-free.md) | Avatars & Characters | AI video avatar for portfolio/case study presentations |
+| [Postwise](../../categories/social-media/postwise.md) | Social Media | AI copy for design portfolio social posts |
+| [Buffer (Free)](../../categories/social-media/buffer.md) | Social Media | Schedule design work across social channels |
+| [Predis.ai](../../categories/social-media/predis.md) | Social Media | AI-generated social post images + copy |
+| [DeepL (Free)](../../categories/translation-language/deepl.md) | Translation & Language | Clean translation for multilingual design work |
+| [Lokalise](../../categories/translation-language/lokalise.md) | Translation & Language | i18n-aware design + localization pipeline |
 
 ---
 

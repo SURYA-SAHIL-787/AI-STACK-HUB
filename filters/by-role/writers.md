@@ -29,6 +29,16 @@ Tools for **drafting, editing, paraphrasing, grammar checking, brainstorming, an
 | [Frase](../../categories/marketing-seo/frase.md) | Marketing & SEO | Brief-driven writing workflow |
 | [NeuronWriter](../../categories/marketing-seo/neuronwriter.md) | Marketing & SEO | Budget SEO writing tool |
 | [Hypotenuse AI (Free Trial)](../../categories/marketing-seo/hypotenuse.md) | Marketing & SEO | E-commerce + marketing copy generation |
+| [DeepL (Free)](../../categories/translation-language/deepl.md) | Translation & Language | Best neural translation for written content |
+| [DeepL Write](../../categories/translation-language/deepl-write.md) | Translation & Language | AI style + tone improvement in multiple languages |
+| [Reverso](../../categories/translation-language/reverso.md) | Translation & Language | Contextual translation with example sentences |
+| [Postwise](../../categories/social-media/postwise.md) | Social Media | AI for growing Twitter/X with written content |
+| [Taplio](../../categories/social-media/taplio.md) | Social Media | LinkedIn ghostwriting + scheduling AI |
+| [Buffer (Free)](../../categories/social-media/buffer.md) | Social Media | Schedule written posts across channels |
+| [SocialBee](../../categories/social-media/socialbee.md) | Social Media | Category-based content recycling for writers |
+| [ChatSpot](../../categories/sales-crm/chatspot.md) | Sales & CRM | Writers doing content-led sales, craft email outreach |
+| [Lavender](../../categories/email-communication/lavender.md) | Email & Communication | Improve sales email copy with AI coaching |
+| [Shortwave](../../categories/email-communication/shortwave.md) | Email & Communication | AI email management for high-volume inboxes |
 
 ---
 

@@ -21,6 +21,23 @@ Tools for **literature search, paper summarization, citation management, knowled
 | [You.com](../../categories/browser-search/you-com.md) | Browser & Search AI | AI search with sources for academic research |
 | [Phind Pro](../../categories/browser-search/phind.md) | Browser & Search AI | Technical research with cited sources |
 | [Comet (Perplexity)](../../categories/browser-search/comet.md) | Browser & Search AI | Research-focused AI browser |
+| [Semantic Scholar](../../categories/research-knowledge/semantic-scholar.md) | Research & Knowledge | Free AI-powered academic search with semantic similarity |
+| [Consensus](../../categories/research-knowledge/consensus.md) | Research & Knowledge | AI finds consensus across hundreds of papers |
+| [Elicit](../../categories/research-knowledge/elicit.md) | Research & Knowledge | Automated literature review and data extraction |
+| [Scite](../../categories/research-knowledge/scite.md) | Research & Knowledge | Smart citations — see how papers are cited |
+| [Connected Papers](../../categories/research-knowledge/connected-papers.md) | Research & Knowledge | Visual citation graph for literature discovery |
+| [SciSpace](../../categories/research-knowledge/scispace.md) | Research & Knowledge | Read and annotate papers with AI co-pilot |
+| [Consensus Premium](../../categories/research-knowledge/consensus-premium.md) | Research & Knowledge | Unlimited AI-cited research Q&A |
+| [Elicit Plus](../../categories/research-knowledge/elicit-plus.md) | Research & Knowledge | Unlimited paper analysis and structured extraction |
+| [DeepL Pro](../../categories/translation-language/deepl-pro.md) | Translation & Language | Read and translate foreign-language research papers |
+| [Lokalise](../../categories/translation-language/lokalise.md) | Translation & Language | Manage multilingual research documentation |
+| [AlphaSense](../../categories/finance-trading/alphasense.md) | Finance & Trading | Primary research via expert interviews + filings |
+| [Open Evidence (Free)](../../categories/healthcare-ai/open-evidence.md) | Healthcare AI | Clinician researchers: evidence search with citations |
+| [PathAI](../../categories/healthcare-ai/pathai.md) | Healthcare AI | Biomedical research and clinical trial analytics |
+| [Anthropic API](../../categories/llm-apis/anthropic-api.md) | LLM APIs & Platforms | Build research tools on Claude — long context + citations |
+| [HuggingFace](../../categories/llm-apis/huggingface.md) | LLM APIs & Platforms | Run open-source models for research experiments |
+| [Pipedream](../../categories/workflow-automation/pipedream.md) | Workflow Automation | Automate research data pipelines and notifications |
+| [n8n](../../categories/workflow-automation/n8n.md) | Workflow Automation | Self-hostable automation for research workflows |
 
 ---
 
