@@ -79,6 +79,81 @@ Tools that **require payment** to use meaningfully (no free tier, or free tier i
 | [ThoughtSpot Sage](../../categories/data-analysis/thoughtspot.md) | Data Analysis & Spreadsheets | Enterprise | AI BI for data warehouses |
 | [Tableau Pulse](../../categories/data-analysis/tableau.md) | Data Analysis & Spreadsheets | $75/user/mo | AI insights on Tableau dashboards |
 | [M365 Copilot Excel](../../categories/data-analysis/copilot-excel.md) | Data Analysis & Spreadsheets | $30/user/mo | AI inside Excel via M365 Copilot |
+| [Consensus Premium](../../categories/research-knowledge/consensus-premium.md) | Research & Knowledge | ~$9/mo | Unlimited AI-cited research Q&A |
+| [Elicit Plus](../../categories/research-knowledge/elicit-plus.md) | Research & Knowledge | ~$12/mo | Unlimited paper analysis |
+| [Scite](../../categories/research-knowledge/scite.md) | Research & Knowledge | ~$20/mo | Smart citation analysis |
+| [SciSpace Premium](../../categories/research-knowledge/scispace-premium.md) | Research & Knowledge | ~$12/mo | Unlimited AI paper Q&A |
+| [Superhuman](../../categories/email-communication/superhuman.md) | Email & Communication | $25/mo | Fastest AI email, inbox zero focus |
+| [SaneBox](../../categories/email-communication/sanebox.md) | Email & Communication | $7/mo | AI email filtering + prioritization |
+| [Lavender](../../categories/email-communication/lavender.md) | Email & Communication | $29/mo | AI sales email coach |
+| [Notion Mail Pro](../../categories/email-communication/notion-mail.md) | Email & Communication | Bundled with Notion | AI-organized email by Notion |
+| [Canary Mail](../../categories/email-communication/canary.md) | Email & Communication | $2.49/mo | AI email with end-to-end encryption |
+| [DeepL Pro](../../categories/translation-language/deepl-pro.md) | Translation & Language | $8.74/mo | Unlimited docs, glossary, API access |
+| [DeepL Write](../../categories/translation-language/deepl-write.md) | Translation & Language | Bundled with Pro | AI writing improvement in any language |
+| [Smartling](../../categories/translation-language/smartling.md) | Translation & Language | Enterprise | End-to-end AI translation management |
+| [Lokalise](../../categories/translation-language/lokalise.md) | Translation & Language | $120/mo | AI-powered software localization platform |
+| [Intercom Fin](../../categories/customer-support/intercom-fin.md) | Customer Support | $0.99/resolution | AI agent that resolves support tickets |
+| [Zendesk AI](../../categories/customer-support/zendesk-ai.md) | Customer Support | $55/agent/mo | AI triage + auto-replies in Zendesk |
+| [Ada (Enterprise)](../../categories/customer-support/ada.md) | Customer Support | Enterprise | No-code AI support automation |
+| [Forethought](../../categories/customer-support/forethought.md) | Customer Support | Enterprise | AI triage + agent assist |
+| [HireVue](../../categories/recruiting-hr/hirevue.md) | Recruiting & HR | Enterprise | AI video interview assessment |
+| [SeekOut](../../categories/recruiting-hr/seekout.md) | Recruiting & HR | Enterprise | AI talent sourcing for hard-to-find skills |
+| [Eightfold AI](../../categories/recruiting-hr/eightfold.md) | Recruiting & HR | Enterprise | AI talent intelligence platform |
+| [iCIMS](../../categories/recruiting-hr/icims.md) | Recruiting & HR | Enterprise | ATS with AI matching + CRM |
+| [Gem](../../categories/recruiting-hr/gem.md) | Recruiting & HR | Enterprise | AI recruiting CRM for pipelines |
+| [Paradox AI](../../categories/recruiting-hr/paradox.md) | Recruiting & HR | Enterprise | Olivia AI for HR chat + scheduling |
+| [Outreach](../../categories/sales-crm/outreach.md) | Sales & CRM | Enterprise | AI sales execution platform |
+| [Clay](../../categories/sales-crm/clay.md) | Sales & CRM | $149/mo | AI data enrichment + outreach sequences |
+| [Salesforce Einstein](../../categories/sales-crm/salesforce.md) | Sales & CRM | CRM add-on | AI across Salesforce CRM |
+| [HubSpot Sales Hub Pro](../../categories/sales-crm/hubspot-sales.md) | Sales & CRM | $90/seat/mo | AI-powered sales sequences |
+| [Apollo Pro](../../categories/sales-crm/apollo.md) | Sales & CRM | $49/mo | AI prospecting + outreach sequences |
+| [Hootsuite Pro](../../categories/social-media/hootsuite-pro.md) | Social Media | $99/mo | Full AI scheduling + analytics suite |
+| [Buffer Pro](../../categories/social-media/buffer-pro.md) | Social Media | $6/mo | AI-assisted posting across channels |
+| [Postwise](../../categories/social-media/postwise.md) | Social Media | $37/mo | AI for Twitter/X growth |
+| [Predis.ai](../../categories/social-media/predis.md) | Social Media | $32/mo | AI social content generator + scheduler |
+| [SocialBee](../../categories/social-media/socialbee.md) | Social Media | $29/mo | Category-based AI scheduling |
+| [Devin](../../categories/coding-agents/devin.md) | Autonomous Coding Agents | Enterprise | First fully autonomous AI software engineer |
+| [Cursor Pro](../../categories/coding-agents/cursor-agent.md) | Autonomous Coding Agents | $20/mo | Best AI code editor for professionals |
+| [Windsurf Cascade](../../categories/coding-agents/windsurf-cascade.md) | Autonomous Coding Agents | $15/mo | Agentic IDE with multi-file reasoning |
+| [V0 Plus](../../categories/coding-agents/v0.md) | Autonomous Coding Agents | $10/mo | AI UI generation by Vercel |
+| [Bolt Pro](../../categories/coding-agents/bolt.md) | Autonomous Coding Agents | $20/mo | Fullstack app builder in the browser |
+| [Meshy Pro](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | $20/mo | Text/image to 3D model generation |
+| [Kaedim](../../categories/3d-animation/kaedim.md) | 3D Modeling & Animation | Enterprise | Photo to game-ready 3D asset |
+| [Wonder Studio](../../categories/3d-animation/wonder-studio.md) | 3D Modeling & Animation | $44/mo | Replace actors with CG characters in video |
+| [Move AI](../../categories/3d-animation/move-ai.md) | 3D Modeling & Animation | Enterprise | Phone-based markerless motion capture |
+| [Cascadeur](../../categories/3d-animation/cascadeur.md) | 3D Modeling & Animation | $16/mo | Physics-aware AI animation tool |
+| [Synthesia Pro](../../categories/avatars-characters/synthesia.md) | Avatars & Characters | $22/mo | Studio-quality AI avatar videos |
+| [HeyGen Pro](../../categories/avatars-characters/heygen-pro.md) | Avatars & Characters | $24/mo | Best AI video + avatar platform |
+| [DeepBrain AI](../../categories/avatars-characters/deepbrain.md) | Avatars & Characters | $30/mo | Realistic AI presenter videos |
+| [Hour One](../../categories/avatars-characters/hour-one.md) | Avatars & Characters | $25/mo | Enterprise-grade AI video presenters |
+| [Colossyan](../../categories/avatars-characters/colossyan.md) | Avatars & Characters | $27/mo | Multilingual avatar videos |
+| [Unity Muse](../../categories/game-dev/unity-muse.md) | Game Development | $30/mo | AI inside Unity for code + content |
+| [Inworld AI Pro](../../categories/game-dev/inworld.md) | Game Development | Custom | LLM-powered NPCs for live-service games |
+| [Charisma.ai](../../categories/game-dev/charisma.md) | Game Development | $99/mo (Studio) | Branching AI narrative engine |
+| [Promethean AI](../../categories/game-dev/promethean.md) | Game Development | Custom | AI virtual art director for 3D worlds |
+| [Harvey AI](../../categories/legal-ai/harvey.md) | Legal AI | Enterprise (7-figure annual) | Big-law AI for elite firms |
+| [Lexis+ AI](../../categories/legal-ai/lexis-plus.md) | Legal AI | Enterprise | AI legal research with case law |
+| [CoCounsel](../../categories/legal-ai/cocounsel.md) | Legal AI | Enterprise | Thomson Reuters AI for legal research |
+| [Ironclad AI](../../categories/legal-ai/ironclad.md) | Legal AI | Enterprise | AI contract lifecycle management |
+| [Luminance](../../categories/legal-ai/luminance.md) | Legal AI | Enterprise | AI for M&A due diligence |
+| [Abridge](../../categories/healthcare-ai/abridge.md) | Healthcare AI | Enterprise | Ambient AI scribe for clinic visits |
+| [Nuance DAX Copilot](../../categories/healthcare-ai/dax-copilot.md) | Healthcare AI | Enterprise | Microsoft + Epic ambient documentation |
+| [Suki AI](../../categories/healthcare-ai/suki.md) | Healthcare AI | Per-clinician/mo | Voice-first AI assistant for clinicians |
+| [Aidoc](../../categories/healthcare-ai/aidoc.md) | Healthcare AI | Enterprise | FDA-cleared radiology AI triage |
+| [PathAI](../../categories/healthcare-ai/pathai.md) | Healthcare AI | Enterprise | AI-assisted pathology for cancer |
+| [Bloomberg Terminal AI](../../categories/finance-trading/bloomberg-gpt.md) | Finance & Trading | ~$2,500/mo/seat | Institutional AI on the Bloomberg Terminal |
+| [AlphaSense](../../categories/finance-trading/alphasense.md) | Finance & Trading | Enterprise | AI research platform for funds and corporates |
+| [Kensho (S&P Global)](../../categories/finance-trading/kensho.md) | Finance & Trading | Enterprise | S&P's institutional AI analytics layer |
+| [Trade Ideas](../../categories/finance-trading/trade-ideas.md) | Finance & Trading | $84/mo | Real-time AI trading signal scanner |
+| [OpenAI API](../../categories/llm-apis/openai-api.md) | LLM APIs & Platforms | Pay-per-token | GPT-4o + o1 via REST API |
+| [Anthropic API](../../categories/llm-apis/anthropic-api.md) | LLM APIs & Platforms | Pay-per-token | Claude models via REST API |
+| [Azure OpenAI](../../categories/llm-apis/azure-openai.md) | LLM APIs & Platforms | Pay-per-token | Enterprise OpenAI via Microsoft Azure |
+| [AWS Bedrock](../../categories/llm-apis/aws-bedrock.md) | LLM APIs & Platforms | Pay-per-token | Multi-model AI via Amazon |
+| [Zapier Pro](../../categories/workflow-automation/zapier-pro.md) | Workflow Automation | $49/mo | Unlimited Zaps + multi-step automations |
+| [n8n Cloud](../../categories/workflow-automation/n8n-cloud.md) | Workflow Automation | $20/mo | Cloud-hosted n8n with AI nodes |
+| [Make Core](../../categories/workflow-automation/make-core.md) | Workflow Automation | $9/mo | 10,000 ops/month on Make |
+| [Lindy](../../categories/workflow-automation/lindy.md) | Workflow Automation | $49/mo | AI agent automation platform |
+| [Bardeen](../../categories/workflow-automation/bardeen.md) | Workflow Automation | $10/mo | AI web automation for sales + research |
 
 ---
 
