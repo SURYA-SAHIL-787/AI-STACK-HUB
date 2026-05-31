@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="AI Stack Hub — A Curated Directory Of 310+ AI Tools Across 31 Categories. Filter By Pricing, Role, And Skill Level." />
+  <title>AI Stack Hub — Find The Right AI Tool</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <!-- Star Canvas -->
+  <canvas id="stars-canvas"></canvas>
+
+  <!-- Cursor Glow -->
+  <div class="cursor-glow" id="cursor-glow"></div>
+
+  <!-- Nebula Orbs (decorative) -->
+  <div class="nebula nebula-1"></div>
+  <div class="nebula nebula-2"></div>
+  <div class="nebula nebula-3"></div>
+
+  <!-- ─── Header ─── -->
+  <header>
+    <a class="logo" href="/">
+      <span class="logo-ai">AI</span>
+      <span class="logo-dash">—</span>
+      <span class="logo-rest">Stack Hub</span>
+    </a>
+    <nav class="header-nav">
+      <a href="https://github.com/SURYA-SAHIL-787/AI-STACK-HUB" target="_blank" rel="noopener" class="nav-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+        GitHub
+      </a>
+      <a href="https://github.com/SURYA-SAHIL-787/AI-STACK-HUB/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" class="nav-link nav-cta">Contribute</a>
+    </nav>
+  </header>
+
+  <!-- ─── Hero ─── -->
+  <section class="hero">
+    <div class="hero-badge">🚀 310+ Tools Curated &amp; Reviewed</div>
+
+    <h1 class="hero-title">
+      Find The Right<br>
+      <span class="gradient-text" id="gradient-text">AI Tool</span>
+      <br>For Any Job
+    </h1>
+
+    <p class="hero-sub">
+      <span id="typewriter"></span><span class="cursor-blink">|</span>
+    </p>
+
+    <!-- Stats -->
+    <div class="stats-row">
+      <div class="stat-card">
+        <span class="stat-num" data-target="310">0</span>
+        <span class="stat-plus">+</span>
+        <span class="stat-lbl">Tools Reviewed</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-card">
+        <span class="stat-num" data-target="31">0</span>
+        <span class="stat-lbl">Categories</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-card">
+        <span class="stat-num" data-target="5">0</span>
+        <span class="stat-lbl">Free Picks Each</span>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="search-wrap">
+      <div class="search-glow"></div>
+      <div class="search-icon-wrap">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      </div>
+      <input
+        type="text"
+        id="search"
+        placeholder="Search Categories, Tools, Or Roles..."
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <div class="search-badge" id="search-badge">31</div>
+    </div>
+  </section>
+
+  <!-- ─── Filters ─── -->
+  <section class="filters-section">
+    <div class="filter-row">
+      <span class="filter-lbl">Pricing</span>
+      <div class="filter-pills">
+        <button class="pill active" data-group="pricing" data-value="all">All</button>
+        <button class="pill" data-group="pricing" data-value="free">
+          <span class="pill-dot green"></span>Free
+        </button>
+        <button class="pill" data-group="pricing" data-value="freemium">
+          <span class="pill-dot amber"></span>Freemium
+        </button>
+        <button class="pill" data-group="pricing" data-value="paid">
+          <span class="pill-dot red"></span>Paid
+        </button>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-lbl">Role</span>
+      <div class="filter-pills">
+        <button class="pill active" data-group="role" data-value="all">All</button>
+        <button class="pill" data-group="role" data-value="students">🎓 Students</button>
+        <button class="pill" data-group="role" data-value="developers">💻 Developers</button>
+        <button class="pill" data-group="role" data-value="designers">🎨 Designers</button>
+        <button class="pill" data-group="role" data-value="writers">✍️ Writers</button>
+        <button class="pill" data-group="role" data-value="researchers">🔬 Researchers</button>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-lbl">Skill</span>
+      <div class="filter-pills">
+        <button class="pill active" data-group="skill" data-value="all">All</button>
+        <button class="pill" data-group="skill" data-value="beginner">⭐ Beginner</button>
+        <button class="pill" data-group="skill" data-value="intermediate">⭐⭐ Intermediate</button>
+        <button class="pill" data-group="skill" data-value="advanced">⭐⭐⭐ Advanced</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── Results Bar ─── -->
+  <div class="results-bar">
+    <span id="results-text">Showing All 31 Categories</span>
+    <button class="reset-btn" id="reset-btn" onclick="resetFilters()">✕ Clear Filters</button>
+  </div>
+
+  <!-- ─── Grid ─── -->
+  <main class="grid" id="grid"></main>
+
+  <!-- ─── No Results ─── -->
+  <div class="no-results" id="no-results">
+    <div class="no-results-icon">🌌</div>
+    <h3>Nothing In This Galaxy</h3>
+    <p>Try A Different Search Or Clear Your Filters</p>
+    <button onclick="resetFilters()" class="reset-big">Clear All Filters</button>
+  </div>
+
+  <!-- ─── Footer ─── -->
+  <footer>
+    <div class="footer-logo">AI—Stack Hub</div>
+    <p class="footer-sub">No Fluff · No Affiliate Spam · Just Good Tools</p>
+    <div class="footer-links">
+      <a href="https://github.com/SURYA-SAHIL-787" target="_blank" rel="noopener">@Surya-Sahil-787</a>
+      <span>·</span>
+      <a href="https://github.com/SURYA-SAHIL-787/AI-STACK-HUB" target="_blank" rel="noopener">View On GitHub</a>
+      <span>·</span>
+      <a href="https://github.com/SURYA-SAHIL-787/AI-STACK-HUB/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a>
+    </div>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
