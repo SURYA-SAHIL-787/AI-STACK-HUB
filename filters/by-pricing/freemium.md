@@ -86,6 +86,69 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Polymer Search](../../categories/data-analysis/polymer.md) | Data Analysis & Spreadsheets | Personal use, limited | $25/mo (Starter) |
 | [Sourcetable (Free)](../../categories/data-analysis/sourcetable.md) | Data Analysis & Spreadsheets | Basic + limited AI | $20/mo (Pro) |
 | [ChatGPT Data Analysis](../../categories/data-analysis/chatgpt-da.md) | Data Analysis & Spreadsheets | Free ChatGPT upload limits | $20/mo (ChatGPT Plus) |
+| [Consensus](../../categories/research-knowledge/consensus.md) | Research & Knowledge | Daily question limit | ~$9/mo (Premium) |
+| [Elicit](../../categories/research-knowledge/elicit.md) | Research & Knowledge | 5 papers/query free | ~$12/mo (Plus) |
+| [SciSpace](../../categories/research-knowledge/scispace.md) | Research & Knowledge | 10 AI questions/day | ~$12/mo (Premium) |
+| [Scite](../../categories/research-knowledge/scite.md) | Research & Knowledge | Limited smart citations | ~$20/mo (Individual) |
+| [Shortwave](../../categories/email-communication/shortwave.md) | Email & Communication | Unlimited email, limited AI | $9/mo (Pro) |
+| [Spark (Free)](../../categories/email-communication/spark.md) | Email & Communication | 2 seats, core AI features | $9.99/mo (Premium) |
+| [Mailbutler](../../categories/email-communication/mailbutler.md) | Email & Communication | Basic tracking free | $14.95/mo (Professional) |
+| [DeepL (Free)](../../categories/translation-language/deepl.md) | Translation & Language | 3 document uploads/month | $8.74/mo (Starter) |
+| [Reverso](../../categories/translation-language/reverso.md) | Translation & Language | 5,000 chars/translation | $9.99/mo (Premium) |
+| [Crowdin](../../categories/translation-language/crowdin.md) | Translation & Language | 1 public project free | $27/mo (Basic) |
+| [Tidio](../../categories/customer-support/tidio.md) | Customer Support | 50 free Lyro AI conversations | $29/mo (Starter) |
+| [Freshdesk](../../categories/customer-support/freshdesk.md) | Customer Support | 10 agents free | $15/agent/mo (Growth) |
+| [Zendesk AI](../../categories/customer-support/zendesk-ai.md) | Customer Support | Suite trial includes AI | $55/agent/mo (Suite Team) |
+| [Chatbase](../../categories/customer-support/chatbase.md) | Customer Support | 1 chatbot + 100 msgs/mo free | $19/mo (Hobby) |
+| [Manatal](../../categories/recruiting-hr/manatal.md) | Recruiting & HR | 14-day trial, all features | $15/user/mo (Professional) |
+| [Phenom](../../categories/recruiting-hr/phenom.md) | Recruiting & HR | Demo tier available | Custom (Enterprise) |
+| [HubSpot Sales Hub](../../categories/sales-crm/hubspot-sales.md) | Sales & CRM | Free CRM core | $15/seat/mo (Starter) |
+| [Apollo.io](../../categories/sales-crm/apollo.md) | Sales & CRM | 10,000 email credits free | $49/mo (Basic) |
+| [Folk](../../categories/sales-crm/folk.md) | Sales & CRM | 2-week trial all features | $20/mo (Standard) |
+| [Pipedrive](../../categories/sales-crm/pipedrive.md) | Sales & CRM | 14-day trial | $14/seat/mo (Essential) |
+| [Buffer](../../categories/social-media/buffer.md) | Social Media | 3 channels, 10 posts/channel | $6/mo (Essentials) |
+| [Hootsuite](../../categories/social-media/hootsuite.md) | Social Media | 30-day trial | $99/mo (Professional) |
+| [Taplio](../../categories/social-media/taplio.md) | Social Media | 7-day trial | $39/mo (Starter) |
+| [Vista Social](../../categories/social-media/vista-social.md) | Social Media | 3 profiles free | $39/mo (Pro) |
+| [SocialBee](../../categories/social-media/socialbee.md) | Social Media | 14-day trial | $29/mo (Bootstrap) |
+| [Cursor](../../categories/coding-agents/cursor-agent.md) | Autonomous Coding Agents | 2-week Pro trial, then Hobby | $20/mo (Pro) |
+| [V0 (Vercel)](../../categories/coding-agents/v0.md) | Autonomous Coding Agents | 200 free credits/month | $10/mo (Plus) |
+| [Bolt](../../categories/coding-agents/bolt.md) | Autonomous Coding Agents | Daily free credits | $20/mo (Pro) |
+| [Roo Code](../../categories/coding-agents/roo-code.md) | Autonomous Coding Agents | Free open-source, BYOK | Cloud model costs |
+| [Continue.dev](../../categories/coding-agents/continue-dev.md) | Autonomous Coding Agents | Free open-source | BYOK API costs |
+| [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | 200 free credits | $20/mo (Pro) |
+| [Spline](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | 2 projects free | $9/mo (Pro) |
+| [Luma Genie](../../categories/3d-animation/luma-genie.md) | 3D Modeling & Animation | Free captures | Credits for AI features |
+| [Sloyd](../../categories/3d-animation/sloyd.md) | 3D Modeling & Animation | 20 free models/month | $9/mo (Pro) |
+| [Tripo3D](../../categories/3d-animation/tripo3d.md) | 3D Modeling & Animation | 20 free generations | $20/mo (Pro) |
+| [HeyGen](../../categories/avatars-characters/heygen-free.md) | Avatars & Characters | 1 free video/month | $24/mo (Creator) |
+| [D-ID](../../categories/avatars-characters/d-id.md) | Avatars & Characters | 5 free credits | $5.9/mo (Lite) |
+| [Character.ai](../../categories/avatars-characters/character-ai.md) | Avatars & Characters | Unlimited chat free | $9.99/mo (c.ai+) |
+| [Colossyan](../../categories/avatars-characters/colossyan.md) | Avatars & Characters | 5 minutes/month free | $27/mo (Starter) |
+| [Synthesia](../../categories/avatars-characters/synthesia.md) | Avatars & Characters | 1 free video/month | $22/mo (Starter) |
+| [Scenario.gg](../../categories/game-dev/scenario.md) | Game Development | 8,500 free tokens | $20/mo (Indie) |
+| [Inworld AI](../../categories/game-dev/inworld.md) | Game Development | 5,000 free interactions | Custom (Enterprise) |
+| [Convai](../../categories/game-dev/convai.md) | Game Development | 1,000 free messages | $49/mo (Professional) |
+| [Ludo.ai](../../categories/game-dev/ludo.md) | Game Development | Limited free use | $19.99/mo (Creator) |
+| [Spellbook (Trial)](../../categories/legal-ai/spellbook.md) | Legal AI | Free trial for contract review | Custom pricing |
+| [Robin AI (Trial)](../../categories/legal-ai/robin-ai.md) | Legal AI | Free trial tier | Custom pricing |
+| [Glass Health](../../categories/healthcare-ai/glass-health.md) | Healthcare AI | Individual clinician free | Custom (Enterprise) |
+| [Perplexity Finance](../../categories/finance-trading/perplexity-finance.md) | Finance & Trading | Full finance answers free | $20/mo (Pro) |
+| [FinChat](../../categories/finance-trading/finchat.md) | Finance & Trading | Limited daily questions | ~$29/mo (Plus) |
+| [TradingView AI](../../categories/finance-trading/tradingview-ai.md) | Finance & Trading | Basic charts + AI free | ~$15/mo (Essential) |
+| [Cleo](../../categories/finance-trading/cleo.md) | Finance & Trading | Budgeting chatbot free | ~$6/mo (Plus) |
+| [Composer](../../categories/finance-trading/composer.md) | Finance & Trading | Backtesting free | $24/mo (Pro) |
+| [OpenAI API](../../categories/llm-apis/openai-api.md) | LLM APIs & Platforms | Free trial credits | Pay-per-token |
+| [Anthropic API](../../categories/llm-apis/anthropic-api.md) | LLM APIs & Platforms | Free trial credits | Pay-per-token |
+| [Groq](../../categories/llm-apis/groq.md) | LLM APIs & Platforms | Free tier (rate-limited) | Pay-per-token |
+| [Cohere](../../categories/llm-apis/cohere.md) | LLM APIs & Platforms | Free trial key | Pay-per-token |
+| [OpenRouter](../../categories/llm-apis/openrouter.md) | LLM APIs & Platforms | Free tier credits | Pay-per-token |
+| [Together AI](../../categories/llm-apis/together-ai.md) | LLM APIs & Platforms | $1 free credits | Pay-per-token |
+| [Make](../../categories/workflow-automation/make.md) | Workflow Automation | 1,000 ops/month free | $9/mo (Core) |
+| [Zapier](../../categories/workflow-automation/zapier.md) | Workflow Automation | 5 Zaps + 100 tasks free | $19.99/mo (Starter) |
+| [n8n Cloud](../../categories/workflow-automation/n8n-cloud.md) | Workflow Automation | 14-day trial | $20/mo (Starter) |
+| [IFTTT](../../categories/workflow-automation/ifttt.md) | Workflow Automation | 5 applets free | $2.50/mo (Pro) |
+| [Pipedream](../../categories/workflow-automation/pipedream.md) | Workflow Automation | 10,000 credits/month free | $19/mo (Basic) |
 
 ---
 
