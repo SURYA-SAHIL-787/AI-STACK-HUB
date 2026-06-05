@@ -25,39 +25,39 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 
 ## Browse by Category
 
-| Category | Tools | Status |
-|---|---|---|
-| [Coding & Development](categories/coding-development/) | 10 | Live |
-| [Chatbots & General AI](categories/chatbots-general-ai/) | 10 | Live |
-| [Writing & Content](categories/writing-content/) | 10 | Live |
-| [Image Generation](categories/image-generation/) | 10 | Live |
-| [Video Generation](categories/video-generation/) | 10 | Live |
-| [Audio, Music & Voice](categories/audio-music-voice/) | 10 | Live |
-| [Study & Learning](categories/study-learning/) | 10 | Live |
-| [Research & Knowledge](categories/research-knowledge/) | 10 | Live |
-| [Productivity & Notes](categories/productivity-notes/) | 10 | Live |
-| [Design (UI/UX)](categories/design-uiux/) | 10 | Live |
-| [Presentations & Slides](categories/presentations-slides/) | 10 | Live |
-| [Marketing & SEO](categories/marketing-seo/) | 10 | Live |
-| [Email & Communication](categories/email-communication/) | 10 | Live |
-| [Translation & Language](categories/translation-language/) | 10 | Live |
-| [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | Live |
-| [Meetings & Transcription](categories/meetings-transcription/) | 10 | Live |
-| [Customer Support](categories/customer-support/) | 10 | Live |
-| [Recruiting & HR](categories/recruiting-hr/) | 10 | Live |
-| [Resume & Career](categories/resume-career/) | 10 | Live |
-| [Sales & CRM](categories/sales-crm/) | 10 | Live |
-| [Social Media](categories/social-media/) | 10 | Live |
-| [Browser & Search AI](categories/browser-search/) | 10 | Live |
-| [Autonomous Coding Agents](categories/coding-agents/) | 10 | Live |
-| [3D Modeling & Animation](categories/3d-animation/) | 10 | Live |
-| [Avatars & Characters](categories/avatars-characters/) | 10 | Live |
-| [Game Development](categories/game-dev/) | 10 | Live |
-| [Legal AI](categories/legal-ai/) | 10 | Live |
-| [Healthcare AI](categories/healthcare-ai/) | 10 | Live |
-| [Finance & Trading](categories/finance-trading/) | 10 | Live |
-| [LLM APIs & Platforms](categories/llm-apis/) | 10 | Live |
-| [Workflow Automation](categories/workflow-automation/) | 10 | Live |
+| Category | Tools |
+|---|---|
+| [Coding & Development](categories/coding-development/) | 10 | 
+| [Chatbots & General AI](categories/chatbots-general-ai/) | 10 |
+| [Writing & Content](categories/writing-content/) | 10 |
+| [Image Generation](categories/image-generation/) | 10 | 
+| [Video Generation](categories/video-generation/) | 10 |
+| [Audio, Music & Voice](categories/audio-music-voice/) | 10 | 
+| [Study & Learning](categories/study-learning/) | 10 |
+| [Research & Knowledge](categories/research-knowledge/) | 10 |
+| [Productivity & Notes](categories/productivity-notes/) | 10 | 
+| [Design (UI/UX)](categories/design-uiux/) | 10 |
+| [Presentations & Slides](categories/presentations-slides/) | 10 |
+| [Marketing & SEO](categories/marketing-seo/) | 10 | 
+| [Email & Communication](categories/email-communication/) | 10 | 
+| [Translation & Language](categories/translation-language/) | 10 | 
+| [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | 
+| [Meetings & Transcription](categories/meetings-transcription/) | 10 | 
+| [Customer Support](categories/customer-support/) | 10 | 
+| [Recruiting & HR](categories/recruiting-hr/) | 10 | 
+| [Resume & Career](categories/resume-career/) | 10 |
+| [Sales & CRM](categories/sales-crm/) | 10 | 
+| [Social Media](categories/social-media/) | 10 | 
+| [Browser & Search AI](categories/browser-search/) | 10 | 
+| [Autonomous Coding Agents](categories/coding-agents/) | 10 | 
+| [3D Modeling & Animation](categories/3d-animation/) | 10 |
+| [Avatars & Characters](categories/avatars-characters/) | 10 |
+| [Game Development](categories/game-dev/) | 10 | 
+| [Legal AI](categories/legal-ai/) | 10 | 
+| [Healthcare AI](categories/healthcare-ai/) | 10 | 
+| [Finance & Trading](categories/finance-trading/) | 10 | 
+| [LLM APIs & Platforms](categories/llm-apis/) | 10 | 
+| [Workflow Automation](categories/workflow-automation/) | 10 | 
 
 See [categories/](categories/) for the full directory.
 
