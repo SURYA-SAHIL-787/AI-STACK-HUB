@@ -25,39 +25,39 @@ No fluff. No affiliate spam. Just structured information to help you pick the ri
 
 ## Browse by Category
 
-| Category | Tools |
-|---|---|
-| [Coding & Development](categories/coding-development/) | 10 | 
-| [Chatbots & General AI](categories/chatbots-general-ai/) | 10 |
-| [Writing & Content](categories/writing-content/) | 10 |
-| [Image Generation](categories/image-generation/) | 10 | 
-| [Video Generation](categories/video-generation/) | 10 |
-| [Audio, Music & Voice](categories/audio-music-voice/) | 10 | 
-| [Study & Learning](categories/study-learning/) | 10 |
-| [Research & Knowledge](categories/research-knowledge/) | 10 |
-| [Productivity & Notes](categories/productivity-notes/) | 10 | 
-| [Design (UI/UX)](categories/design-uiux/) | 10 |
-| [Presentations & Slides](categories/presentations-slides/) | 10 |
-| [Marketing & SEO](categories/marketing-seo/) | 10 | 
-| [Email & Communication](categories/email-communication/) | 10 | 
-| [Translation & Language](categories/translation-language/) | 10 | 
-| [Data Analysis & Spreadsheets](categories/data-analysis/) | 10 | 
-| [Meetings & Transcription](categories/meetings-transcription/) | 10 | 
-| [Customer Support](categories/customer-support/) | 10 | 
-| [Recruiting & HR](categories/recruiting-hr/) | 10 | 
-| [Resume & Career](categories/resume-career/) | 10 |
-| [Sales & CRM](categories/sales-crm/) | 10 | 
-| [Social Media](categories/social-media/) | 10 | 
-| [Browser & Search AI](categories/browser-search/) | 10 | 
-| [Autonomous Coding Agents](categories/coding-agents/) | 10 | 
-| [3D Modeling & Animation](categories/3d-animation/) | 10 |
-| [Avatars & Characters](categories/avatars-characters/) | 10 |
-| [Game Development](categories/game-dev/) | 10 | 
-| [Legal AI](categories/legal-ai/) | 10 | 
-| [Healthcare AI](categories/healthcare-ai/) | 10 | 
-| [Finance & Trading](categories/finance-trading/) | 10 | 
-| [LLM APIs & Platforms](categories/llm-apis/) | 10 | 
-| [Workflow Automation](categories/workflow-automation/) | 10 | 
+| Category | 
+|---|
+| [Coding & Development](categories/coding-development/) | 
+| [Chatbots & General AI](categories/chatbots-general-ai/) | 
+| [Writing & Content](categories/writing-content/) | 
+| [Image Generation](categories/image-generation/) |  
+| [Video Generation](categories/video-generation/) | 
+| [Audio, Music & Voice](categories/audio-music-voice/) |  
+| [Study & Learning](categories/study-learning/) | 
+| [Research & Knowledge](categories/research-knowledge/) | 
+| [Productivity & Notes](categories/productivity-notes/) | 
+| [Design (UI/UX)](categories/design-uiux/) |
+| [Presentations & Slides](categories/presentations-slides/) | 
+| [Marketing & SEO](categories/marketing-seo/) |
+| [Email & Communication](categories/email-communication/) | 
+| [Translation & Language](categories/translation-language/) |
+| [Data Analysis & Spreadsheets](categories/data-analysis/) | 
+| [Meetings & Transcription](categories/meetings-transcription/) | 
+| [Customer Support](categories/customer-support/) | 
+| [Recruiting & HR](categories/recruiting-hr/) |  
+| [Resume & Career](categories/resume-career/) | 
+| [Sales & CRM](categories/sales-crm/) |  
+| [Social Media](categories/social-media/) | 
+| [Browser & Search AI](categories/browser-search/) | 
+| [Autonomous Coding Agents](categories/coding-agents/) |  
+| [3D Modeling & Animation](categories/3d-animation/) | 
+| [Avatars & Characters](categories/avatars-characters/) | 
+| [Game Development](categories/game-dev/) | 
+| [Legal AI](categories/legal-ai/) |  
+| [Healthcare AI](categories/healthcare-ai/) | 
+| [Finance & Trading](categories/finance-trading/) | 
+| [LLM APIs & Platforms](categories/llm-apis/) |  
+| [Workflow Automation](categories/workflow-automation/) | 
 
 See [categories/](categories/) for the full directory.
 
@@ -94,17 +94,6 @@ See [filters/](filters/) for filter pages (populated as tools are added).
 2. **On a budget?** Check the free / freemium filter pages.
 3. **New to AI?** Start with the "Beginner-friendly" filter.
 4. **Want to contribute a tool?** See [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## Roadmap
-
-- [x] Phase 0: Repo created, README written
-- [x] Phase 1: Folder structure + contribution templates
-- [x] Phase 2: Seed first 4 categories (40 tools)
-- [x] Phase 3: Expand to all 30+ categories (300+ tools) — 31/31 done
-- [ ] Phase 4: Build a static website with interactive filters (search, dropdowns, comparison)
-- [ ] Phase 5: Open to community contributions at scale
 
 ---
 
