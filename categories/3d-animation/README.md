@@ -11,6 +11,7 @@ AI tools for 3D — text-to-3D mesh, AI motion capture, character animation, and
 | # | Tool | What it does | Page |
 |---|---|---|---|
 | 1 | **Meshy AI (Free)** | Text/image to 3D mesh, free credits | [meshy.md](meshy.md) |
+| — | **Luphra** | Prompt-to-matter: text/sketch to editable 3D and physical products | [luphra.md](luphra.md) |
 | 2 | **Luma AI Genie (Free)** | Text to 3D model in Discord/web | [luma-genie.md](luma-genie.md) |
 | 3 | **Sloyd (Free)** | Procedural 3D models in browser | [sloyd.md](sloyd.md) |
 | 4 | **Blender (Free)** | Open-source 3D suite + AI add-ons | [blender.md](blender.md) |
@@ -33,6 +34,7 @@ AI tools for 3D — text-to-3D mesh, AI motion capture, character animation, and
 | Need | Best pick |
 |---|---|
 | Text → 3D mesh free | Meshy or Tripo3D |
+| Prompt → 3D you can manufacture | Luphra |
 | Free 3D modeling software | Blender |
 | Procedural game assets | Sloyd |
 | 3D + UI design together | Spline AI |

@@ -117,6 +117,7 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Roo Code](../../categories/coding-agents/roo-code.md) | Autonomous Coding Agents | Free open-source, BYOK | Cloud model costs |
 | [Continue.dev](../../categories/coding-agents/continue-dev.md) | Autonomous Coding Agents | Free open-source | BYOK API costs |
 | [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | 200 free credits | $20/mo (Pro) |
+| [Luphra](../../categories/3d-animation/luphra.md) | 3D Modeling & Animation | Prompt/sketch to editable 3D | See website |
 | [Spline](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | 2 projects free | $9/mo (Pro) |
 | [Luma Genie](../../categories/3d-animation/luma-genie.md) | 3D Modeling & Animation | Free captures | Credits for AI features |
 | [Sloyd](../../categories/3d-animation/sloyd.md) | 3D Modeling & Animation | 20 free models/month | $9/mo (Pro) |
