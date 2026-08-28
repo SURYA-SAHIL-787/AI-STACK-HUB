@@ -38,6 +38,7 @@ Tools for **image generation, UI mockups, logo design, color palettes, vector ar
 | [Beautiful.ai Pro](../../categories/presentations-slides/beautiful-ai.md) | Presentations & Slides | Auto-layout decks with design polish |
 | [Tome (Free)](../../categories/presentations-slides/tome.md) | Presentations & Slides | Story-driven decks for design case studies |
 | [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | Text to 3D — useful for 3D UI/product design |
+| [Luphra](../../categories/3d-animation/luphra.md) | 3D Modeling & Animation | Prompt/sketch to editable 3D and physical products |
 | [Spline (Free)](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | Browser 3D design tool with Figma-like UX |
 | [HeyGen (Free)](../../categories/avatars-characters/heygen-free.md) | Avatars & Characters | AI video avatar for portfolio/case study presentations |
 | [Postwise](../../categories/social-media/postwise.md) | Social Media | AI copy for design portfolio social posts |

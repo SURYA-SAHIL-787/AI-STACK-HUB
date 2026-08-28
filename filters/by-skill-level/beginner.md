@@ -131,6 +131,7 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Bolt](../../categories/coding-agents/bolt.md) | Autonomous Coding Agents | Type app idea, get running prototype |
 | [Spline (Free)](../../categories/3d-animation/spline.md) | 3D Modeling & Animation | Browser-based, no install |
 | [Meshy](../../categories/3d-animation/meshy.md) | 3D Modeling & Animation | Text prompt → 3D model in minutes |
+| [Luphra](../../categories/3d-animation/luphra.md) | 3D Modeling & Animation | Prompt or sketch → editable 3D, no CAD |
 | [Character.ai (Free)](../../categories/avatars-characters/character-ai.md) | Avatars & Characters | Sign up, pick character, start chatting |
 | [Ready Player Me (Free)](../../categories/avatars-characters/ready-player-me.md) | Avatars & Characters | Selfie → avatar in under 2 minutes |
 | [HeyGen (Free)](../../categories/avatars-characters/heygen-free.md) | Avatars & Characters | Text + avatar template = video |
