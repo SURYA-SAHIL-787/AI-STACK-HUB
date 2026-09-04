@@ -15,6 +15,7 @@ AI tools for resume building, ATS optimization, cover letters, LinkedIn profile 
 | 3 | **Kickresume (Free)** | Designer templates + AI writer, limited free | [kickresume.md](kickresume.md) |
 | 4 | **Enhancv (Free)** | Modern resume designs with AI suggestions | [enhancv.md](enhancv.md) |
 | 5 | **Resume.com** | Truly free, no premium upsells | [resume-com.md](resume-com.md) |
+| 6 | **ResumeAI** | Free ATS checker + State of ATS 2026 dataset | [resumeai.md](resumeai.md) |
 
 ### Paid
 
@@ -36,6 +37,7 @@ AI tools for resume building, ATS optimization, cover letters, LinkedIn profile 
 | Pure ATS keyword optimization | Rezi or Jobscan |
 | Best-looking designed resumes | Kickresume or Enhancv |
 | Just need a basic, free resume | Resume.com |
+| Free ATS check + ATS market data | ResumeAI |
 | One-time use, no subscription | Resume.com or single-month Rezi Pro |
 
 ---
