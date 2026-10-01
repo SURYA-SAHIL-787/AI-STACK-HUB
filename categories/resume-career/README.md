@@ -25,6 +25,7 @@ AI tools for resume building, ATS optimization, cover letters, LinkedIn profile 
 | 8 | **Kickresume Premium** | $19/mo | [kickresume-premium.md](kickresume-premium.md) |
 | 9 | **Enhancv Pro** | $25/mo | [enhancv-pro.md](enhancv-pro.md) |
 | 10 | **Jobscan Premium** | $49.95/mo | [jobscan.md](jobscan.md) |
+| 11 | **ResumeAI** | Free ATS checker (3/day anon, 10/day free acct); State of ATS 2026 | [resumeai.md](resumeai.md) |
 
 ---
 
