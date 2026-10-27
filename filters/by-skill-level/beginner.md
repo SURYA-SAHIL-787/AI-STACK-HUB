@@ -54,6 +54,7 @@ Tools that are **easy to start with** — no setup, no technical knowledge, intu
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Pick template, fill in, done |
 | [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | Modern templates, AI suggestions |
 | [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Truly free, no upsell tricks |
+| [JobEmerge](../../categories/resume-career/jobemerge.md) | Resume & Career | Guided job-fit, translation, editing, and tracking workflow |
 | [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Same UX as free, unlimited AI |
 | [Rezi Pro](../../categories/resume-career/rezi-pro.md) | Resume & Career | Same form-based UX, unlimited |
 | [Kickresume Premium](../../categories/resume-career/kickresume-premium.md) | Resume & Career | Premium templates, same easy workflow |
