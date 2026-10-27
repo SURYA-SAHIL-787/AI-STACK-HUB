@@ -22,6 +22,7 @@ Tools that help with **coding, debugging, code review, documentation, testing, a
 | [Teal (Free)](../../categories/resume-career/teal.md) | Resume & Career | Job tracker + AI match — useful for dev role applications |
 | [Rezi (Free)](../../categories/resume-career/rezi.md) | Resume & Career | ATS-friendly tech resumes |
 | [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Unlimited tailoring for dev role applications |
+| [JobEmerge](../../categories/resume-career/jobemerge.md) | Resume & Career | Markdown resume editing, job-fit checks, and application tracking |
 | [Whisper (Open Source)](../../categories/audio-music-voice/whisper.md) | Audio, Music & Voice | Open-source speech-to-text; build voice features |
 | [AssemblyAI Free](../../categories/audio-music-voice/assemblyai.md) | Audio, Music & Voice | Hosted transcription API for your apps |
 | [Otter.ai (Free)](../../categories/meetings-transcription/otter.md) | Meetings & Transcription | Standup/sprint review transcripts |

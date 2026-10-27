@@ -47,6 +47,7 @@ Tools with a **usable free tier** but paid plans unlock more (higher limits, adv
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | 1 template, watermarked | $7/mo annual (Premium) |
 | [Enhancv (Free)](../../categories/resume-career/enhancv.md) | Resume & Career | 1 resume, watermarked | $14.99/mo (Pro 3-month) |
 | [Jobscan Premium](../../categories/resume-career/jobscan.md) | Resume & Career | 5 scans/month | $49.95/mo (Premium) |
+| [JobEmerge](../../categories/resume-career/jobemerge.md) | Resume & Career | Match check + translation preview | $9.90 one-time (7-day Pro access) |
 | [Runway (Free)](../../categories/video-generation/runway.md) | Video Generation | 525 one-time credits, watermarked | $15/mo (Standard) |
 | [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | 250 credits + daily refresh | $10/mo (Standard) |
 | [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 videos/month, watermarked | $9.99/mo (Standard) |

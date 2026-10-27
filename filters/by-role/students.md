@@ -39,6 +39,7 @@ Tools that help with **studying, note-taking, research, writing essays, and exam
 | [Resume.com](../../categories/resume-career/resume-com.md) | Resume & Career | Free, no friction — first resume |
 | [Kickresume (Free)](../../categories/resume-career/kickresume.md) | Resume & Career | Designer templates for creative roles |
 | [Teal+](../../categories/resume-career/teal-plus.md) | Resume & Career | Weekly pricing perfect for placement bursts ($9/wk) |
+| [JobEmerge](../../categories/resume-career/jobemerge.md) | Resume & Career | Compare, translate, edit, and track applications without auto-renewal |
 | [Luma Dream Machine](../../categories/video-generation/luma.md) | Video Generation | 30 free videos/month — enough for projects/presentations |
 | [Hailuo AI](../../categories/video-generation/hailuo.md) | Video Generation | Free no-account-friction video for school projects |
 | [Pika (Free)](../../categories/video-generation/pika.md) | Video Generation | Free credits + fun effects for social/student content |
